@@ -27,7 +27,10 @@
   3. [Javascript Chuyên Sâu](https://drive.google.com/drive/folders/1umRl9cE1eemU9OieDkcMbeBlQc46i9LB?usp=sharing)
   4. [7 Công Thức Làm Web Nhanh](https://drive.google.com/drive/folders/1HtlXNVFqtFC9LNgAYG60-gh4x9YE3MqO?usp=sharing)
   5. [Chat Box tự dộng trên Messenger](https://drive.google.com/drive/folders/1yIQ8eg3uEly-XYZ67vZlCJn2gN-9xpar?usp=sharing)
-  6. 
+  6. [ES6 và TypeScript cơ bản](https://drive.google.com/drive/folders/1oXuHakKGeDlbtFZpcS781d2qw7X0XUta?usp=sharing)
+  7. [Git&github cho lập trình và thiết kế website](https://drive.google.com/drive/folders/1Qm6j5MJ1XcZ9fTnUzAW_qRooDganwpRh?usp=sharing)
+  8. [Quản Lý Source Code Trong Dự Án Với Git](https://drive.google.com/drive/folders/1hzWE3twA3UCcV4fEG2R5cBLhxLzR7VwX?usp=sharing)
+  9. [NodeJS Cơ bản](https://drive.google.com/drive/folders/1eaZu5iH2n-i_qH95ZdoUFAoqFpR9FQHM?usp=sharing)
 - ## IOS
 - ## IoT
 - ## Java

@@ -15,7 +15,19 @@
 - ## Database-SQL
   1. [Phân tích thiết kế cơ sở dữ liệu với 10 dự án](https://drive.google.com/drive/folders/1zVGU5CNdtrHzPSCXpSYc78ph2R3d8CVf?usp=sharing)
 - ## Design
+  1. [Học Adobe Illustrator Từ Căn Bản Đến Nâng Cao](https://drive.google.com/drive/folders/15Ru33okIFFIv2enY0mEy0TdWMNc5bekg?usp=sharing)
+  2. [Học Thiết Kế Đồ Hoạ Chuyên Nghiệp](https://drive.google.com/drive/folders/1y0pnvCR_-ePR3BbWtS2xSXdc8dcYYYsY?usp=sharing)
+  3. [Học thiết kế qua bài tập thực tế](https://drive.google.com/drive/folders/1ZHzEySe9okcqUsyW7vuejSIj5KG9EMqX?usp=sharing)
+  4. [Thiết kế Đồ hoạ thực chiến](https://drive.google.com/drive/folders/1RQgeG66f5oPrqex3Rje5FKiOkhvCXxo3?usp=sharing)
+  5. [Thiết Kế Logo-Xây Dựng Thương Hiệu Ấn Tượng](https://drive.google.com/drive/folders/1Qyr7WPyjTuJVgeFCVvTYS90BjBx1IyGv?usp=sharing)
+  6. [Tự học thiết kế UX](https://drive.google.com/drive/folders/1Ohu4u0wwn1I8hgEEyURq6v_C5s38-qGs?usp=sharing)
 - ## Front-end
+  1. [HTML5 cho người mới bắt đầu](https://drive.google.com/drive/folders/1sxD_QQjc0eeJW9boacVnFPDtjeE5SJRM?usp=sharing)
+  2. [Javascript cơ bản](https://drive.google.com/drive/folders/1O4h6156gMXiFVS7JGaNbDlATndRfyudT?usp=sharing)
+  3. [Javascript Chuyên Sâu](https://drive.google.com/drive/folders/1umRl9cE1eemU9OieDkcMbeBlQc46i9LB?usp=sharing)
+  4. [7 Công Thức Làm Web Nhanh](https://drive.google.com/drive/folders/1HtlXNVFqtFC9LNgAYG60-gh4x9YE3MqO?usp=sharing)
+  5. [Chat Box tự dộng trên Messenger](https://drive.google.com/drive/folders/1yIQ8eg3uEly-XYZ67vZlCJn2gN-9xpar?usp=sharing)
+  6. 
 - ## IOS
 - ## IoT
 - ## Java

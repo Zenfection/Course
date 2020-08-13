@@ -43,6 +43,9 @@
 - ## Python-AI
 - ## Security
 - ## Server
+  1. [Lập trình PHP từ cơ bản đến nâng cao trong 6 tuần](https://drive.google.com/drive/folders/19yhAgJJtWWWBM8xyV9cO_F8cw7jdPdso?usp=sharing)
+  2. [Lập trình PHP qua 7 dự án thực tế](https://drive.google.com/drive/folders/1ckr-ayakbFRJfQJGMinK6ZPCgyz5vVMs?usp=sharing)
+  3. [Docker Cơ bản](https://drive.google.com/drive/folders/1B9phBDuZ2-KUanAe3I5p9rNHR-F1ojmE?usp=sharing)
 - ## Office
   1. [Microsoft Word Cơ Bản Và Hiệu Quả](https://drive.google.com/drive/folders/1Y995DiwpRNTJHAOmydEugbBFA6XFyQWS?usp=sharing)
   2. [Luyện Excel từ cơ bản tới nâng cao](https://drive.google.com/drive/folders/1qkFOucYL0SlEHy1wvtHP_dfGSaUjEunj?usp=sharing)

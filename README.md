@@ -31,6 +31,9 @@
   7. [Git&github cho lập trình và thiết kế website](https://drive.google.com/drive/folders/1Qm6j5MJ1XcZ9fTnUzAW_qRooDganwpRh?usp=sharing)
   8. [Quản Lý Source Code Trong Dự Án Với Git](https://drive.google.com/drive/folders/1hzWE3twA3UCcV4fEG2R5cBLhxLzR7VwX?usp=sharing)
   9. [NodeJS Cơ bản](https://drive.google.com/drive/folders/1eaZu5iH2n-i_qH95ZdoUFAoqFpR9FQHM?usp=sharing)
+  10. [Lập trình website trong 6 tuần](https://drive.google.com/drive/folders/1J8bghjJP1TRWRgD9xgiIgm8kAVm5RdK-?usp=sharing)
+  11. [Lập trình WordPresss Theme cho doanh nghiệp cùng Boostrap](https://drive.google.com/drive/folders/1HXtALRQDcbxSvgdyS-hLH-XnSMhv2z0q?usp=sharing)
+  12. [Thiết kế giao diện bằng Bootstrap](https://drive.google.com/drive/folders/1rZzjlbAYP5-7H2vnXB2t7_PFf7d_rd0A?usp=sharing)
 - ## IOS
 - ## IoT
 - ## Java

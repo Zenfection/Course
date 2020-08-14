@@ -1,4 +1,4 @@
-# Tập hợp Link khoá học
+# Tập hợp khoá học tiếng việt
 
 - ## Android
   1. [Lập trình Android từ cơ bản đến thành thạo](https://drive.google.com/drive/folders/1ZK-XFP_DVqpepibgxG86U6qeySvW5HUs?usp=sharing)
@@ -21,8 +21,9 @@
   4. [Thiết kế Đồ hoạ thực chiến](https://drive.google.com/drive/folders/1RQgeG66f5oPrqex3Rje5FKiOkhvCXxo3?usp=sharing)
   5. [Thiết Kế Logo-Xây Dựng Thương Hiệu Ấn Tượng](https://drive.google.com/drive/folders/1Qyr7WPyjTuJVgeFCVvTYS90BjBx1IyGv?usp=sharing)
   6. [Tự học thiết kế UX](https://drive.google.com/drive/folders/1Ohu4u0wwn1I8hgEEyURq6v_C5s38-qGs?usp=sharing)
+  7. [Kho đồ hoạ FPT](https://drive.google.com/drive/folders/1rXteUiHe7vStHc6IiZqyZOLy1fJg4LQG?usp=sharing)
 - ## Front-end
-  1. [HTML5 cho người mới bắt đầu](https://drive.google.com/drive/folders/1sxD_QQjc0eeJW9boacVnFPDtjeE5SJRM?usp=sharing)
+  1. [HTML5 cho người mới bắt đầu](https://drive.google.com/drive/folders/1sxD_QQjc0eeJW9boacVnFPDtjeE5SJRM?usp=sharing)dasd
   2. [Javascript cơ bản](https://drive.google.com/drive/folders/1O4h6156gMXiFVS7JGaNbDlATndRfyudT?usp=sharing)
   3. [Javascript Chuyên Sâu](https://drive.google.com/drive/folders/1umRl9cE1eemU9OieDkcMbeBlQc46i9LB?usp=sharing)
   4. [7 Công Thức Làm Web Nhanh](https://drive.google.com/drive/folders/1HtlXNVFqtFC9LNgAYG60-gh4x9YE3MqO?usp=sharing)

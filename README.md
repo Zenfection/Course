@@ -38,6 +38,15 @@
   1. [Học Lập Trình iOS Dùng Swift 3 Theo Phương Pháp THỰC DỤNG](https://drive.google.com/drive/folders/1jOGcifvyVH59CEvVYevc_MZBD6KXw7L_?usp=sharing)
   2. [Lập trình IOS trong 24h tự học](https://drive.google.com/drive/folders/1DQBIUw9QRVcZsmgr-Me4UObW1QR_beva?usp=sharing)
 - ## IoT
+  1. [Tech Explorations™ Arduino Step by Step Getting Started](https://drive.google.com/drive/folders/1W_W1cdY7NyW5aXziLnVlJhq1XlN9PwkT?usp=sharing)
+  
+  2. [Điện Tử Căn Bản Phần 1](https://drive.google.com/drive/folders/1B33JcVjcLLoKa_cZXrvjX0FSh2_j4R2-?usp=sharing)
+  
+  3. [Điện tử cơ bản Phần 2](https://drive.google.com/drive/folders/1YMW-KvChtFy1v6NqCoG50_IVPK74xwXG?usp=sharing)
+  
+  4. [Robotics Căn Bản-Chế Tạo Robot Điều Khiển Bằng Bluetooth](https://drive.google.com/drive/folders/1uk-sxbqqy51nBki-wd7CZMIPIoqBOgkP?usp=sharing)
+  
+  5. [005-Xây Dựng Sản Phẩm Internet of Things](https://drive.google.com/drive/folders/1l93NStH60RhW3pwOgPpY3eQUlEk3pXYj?usp=sharing)
 - ## Java
 - ## Linux
 - ## Python-AI

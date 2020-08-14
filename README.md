@@ -48,12 +48,19 @@
   
   5. [Xây Dựng Sản Phẩm Internet of Things](https://drive.google.com/drive/folders/1l93NStH60RhW3pwOgPpY3eQUlEk3pXYj?usp=sharing)
 - ## Java
+  1. [Java cơ bản trong 4 tuần](https://drive.google.com/drive/folders/1nQTKHf8SDY_MbP-zeUUWElu2-XK8o-80?usp=sharing)
 - ## Linux
+  1. [Làm quen với hệ điều hành Ubuntu](https://drive.google.com/drive/folders/1XxsuOKWFF63bkByOU4qVQm7E8_K4EoFB?usp=sharing)
+  
+  2. [Quản trị Linux siêu tốc](https://drive.google.com/drive/folders/1TBZZ_xEz7zYYaCjrcp2YKxcKnZMjIbTZ?usp=sharing)
 - ## Python-AI
   1. [001-Làm chủ python trong 4 tuần](https://drive.google.com/drive/folders/1TfALAxoCC44ccSMvLblHz_QItFiCA020?usp=sharing)
   
   2. [Học Máy(Machine Learning) Và Ứng Dụng](https://drive.google.com/drive/folders/1Wel3tuwPg8mTywaTlLE6AHKaoeXWU4mw?usp=sharing)
 - ## Security
+  1. [Khám phá thế giới hacker](https://drive.google.com/drive/folders/1Ptk2KHB4uNTW0a_KUrux9Ue17T_JVeWM?usp=sharing)
+  
+  2. [Hacker mũ trắng và bảo mật thông tin](https://drive.google.com/drive/folders/1TdInOZlE4iAQ0U4QHfW-X2FSSS8b8auU?usp=sharing)
 - ## Server
   1. [Lập trình PHP từ cơ bản đến nâng cao trong 6 tuần](https://drive.google.com/drive/folders/19yhAgJJtWWWBM8xyV9cO_F8cw7jdPdso?usp=sharing)
   2. [Lập trình PHP qua 7 dự án thực tế](https://drive.google.com/drive/folders/1ckr-ayakbFRJfQJGMinK6ZPCgyz5vVMs?usp=sharing)

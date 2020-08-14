@@ -54,7 +54,7 @@
   
   2. [Quản trị Linux siêu tốc](https://drive.google.com/drive/folders/1TBZZ_xEz7zYYaCjrcp2YKxcKnZMjIbTZ?usp=sharing)
 - ## Python-AI
-  1. [001-Làm chủ python trong 4 tuần](https://drive.google.com/drive/folders/1TfALAxoCC44ccSMvLblHz_QItFiCA020?usp=sharing)
+  1. [Làm chủ python trong 4 tuần](https://drive.google.com/drive/folders/1TfALAxoCC44ccSMvLblHz_QItFiCA020?usp=sharing)
   
   2. [Học Máy(Machine Learning) Và Ứng Dụng](https://drive.google.com/drive/folders/1Wel3tuwPg8mTywaTlLE6AHKaoeXWU4mw?usp=sharing)
 - ## Security
@@ -70,3 +70,10 @@
   2. [Luyện Excel từ cơ bản tới nâng cao](https://drive.google.com/drive/folders/1qkFOucYL0SlEHy1wvtHP_dfGSaUjEunj?usp=sharing)
   3. [Powerpoint-Những Điều Bạn Chưa Biết](https://drive.google.com/drive/folders/1Te2U7l8lxmsjRFcF21v1_0eFPgbZ7B1a?usp=sharing)
 - ## Advanced Math
+  1. [Đại số tuyến tính](https://drive.google.com/drive/folders/1s55CcmM3XX_F0oA5l-73Q5Xm1B4B9vX1?usp=sharing)
+  
+  2. [Giải tích 1](https://drive.google.com/drive/folders/1mT2icDFnbTzyd2I3wKXz8Za9dg_mlgRK?usp=sharing)
+  
+  3. [Giải tích 2](https://drive.google.com/drive/folders/1aeb1qNgoSmhFM4cbleMvc_MxUO8vxI1H?usp=sharing)
+  
+  4. [Xác suất thống kê](https://drive.google.com/drive/folders/1QkICJe1ZUCZFGgAPCkGcw_ekp6jQSq-8?usp=sharing)

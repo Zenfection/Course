@@ -46,7 +46,7 @@
   
   4. [Robotics Căn Bản-Chế Tạo Robot Điều Khiển Bằng Bluetooth](https://drive.google.com/drive/folders/1uk-sxbqqy51nBki-wd7CZMIPIoqBOgkP?usp=sharing)
   
-  5. [005-Xây Dựng Sản Phẩm Internet of Things](https://drive.google.com/drive/folders/1l93NStH60RhW3pwOgPpY3eQUlEk3pXYj?usp=sharing)
+  5. [Xây Dựng Sản Phẩm Internet of Things](https://drive.google.com/drive/folders/1l93NStH60RhW3pwOgPpY3eQUlEk3pXYj?usp=sharing)
 - ## Java
 - ## Linux
 - ## Python-AI

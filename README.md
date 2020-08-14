@@ -50,6 +50,9 @@
 - ## Java
 - ## Linux
 - ## Python-AI
+  1. [001-Làm chủ python trong 4 tuần](https://drive.google.com/drive/folders/1TfALAxoCC44ccSMvLblHz_QItFiCA020?usp=sharing)
+  
+  2. [Học Máy(Machine Learning) Và Ứng Dụng](https://drive.google.com/drive/folders/1Wel3tuwPg8mTywaTlLE6AHKaoeXWU4mw?usp=sharing)
 - ## Security
 - ## Server
   1. [Lập trình PHP từ cơ bản đến nâng cao trong 6 tuần](https://drive.google.com/drive/folders/19yhAgJJtWWWBM8xyV9cO_F8cw7jdPdso?usp=sharing)

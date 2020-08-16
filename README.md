@@ -107,3 +107,5 @@
   3. [Giải tích 2](https://drive.google.com/drive/folders/1aeb1qNgoSmhFM4cbleMvc_MxUO8vxI1H?usp=sharing)
   
   4. [Xác suất thống kê](https://drive.google.com/drive/folders/1QkICJe1ZUCZFGgAPCkGcw_ekp6jQSq-8?usp=sharing)
+  
+  5. [Mathematica Cơ bản](https://drive.google.com/drive/folders/1q4DQnx3lt5sQKMMjHvwZd0DcV5uug1-J?usp=sharing)

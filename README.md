@@ -46,6 +46,7 @@
   10. [Lập trình website trong 6 tuần](https://drive.google.com/drive/folders/1J8bghjJP1TRWRgD9xgiIgm8kAVm5RdK-?usp=sharing)
   11. [Lập trình WordPresss Theme cho doanh nghiệp cùng Boostrap](https://drive.google.com/drive/folders/1HXtALRQDcbxSvgdyS-hLH-XnSMhv2z0q?usp=sharing)
   12. [Thiết kế giao diện bằng Bootstrap](https://drive.google.com/drive/folders/1rZzjlbAYP5-7H2vnXB2t7_PFf7d_rd0A?usp=sharing)
+  13. [Lập trình Web trong 25 tuần](https://drive.google.com/drive/folders/1Rik4jDLutg5XHYtkmRQ8o8co1drCVLv0?usp=sharing)
 
 - ## iOS
   

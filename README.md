@@ -31,6 +31,7 @@
   5. [Thiết Kế Logo-Xây Dựng Thương Hiệu Ấn Tượng](https://drive.google.com/drive/folders/1Qyr7WPyjTuJVgeFCVvTYS90BjBx1IyGv?usp=sharing)
   6. [Tự học thiết kế UX](https://drive.google.com/drive/folders/1Ohu4u0wwn1I8hgEEyURq6v_C5s38-qGs?usp=sharing)
   7. [Kho đồ hoạ FPT](https://drive.google.com/drive/folders/1rXteUiHe7vStHc6IiZqyZOLy1fJg4LQG?usp=sharing)
+  8. [34 Tuyệt chiêu chinh phục Photoshop](https://drive.google.com/drive/folders/1iswARWIL1c-sHnnFmerjGiZ8RhLHkJvX?usp=sharing)
 
 - ## Front-end
   

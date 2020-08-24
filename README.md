@@ -18,8 +18,6 @@
 2. [Lập trình C# nâng cao](https://drive.google.com/drive/folders/1iey7qoqNqZUydN-isJWP3wrqmAAYzAa6?usp=sharing)
 3. [Lập trình WinForm với C# 10 ứng dụng](https://drive.google.com/drive/folders/1kmfvyQ8PJEfwj7-9x5-MBqHl6CmNyV1T?usp=sharing)
 
-
-
 ## ![icons8_data_protection_40px.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/08/23-23-50-23-icons8_data_protection_40px.png)Database-SQL
 
 1. [Phân tích thiết kế cơ sở dữ liệu với 10 dự án](https://drive.google.com/drive/folders/1zVGU5CNdtrHzPSCXpSYc78ph2R3d8CVf?usp=sharing)
@@ -71,6 +69,10 @@
 ## ![icons8_java_48px.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/08/23-23-56-37-icons8_java_48px.png) Java
 
 1. [Java cơ bản trong 4 tuần](https://drive.google.com/drive/folders/1nQTKHf8SDY_MbP-zeUUWElu2-XK8o-80?usp=sharing)
+
+## ![icons8-search_property.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/08/24-16-04-35-icons8-search_property.png) Tester
+
+1. [Kiểm Thử Phần Mềm](https://drive.google.com/drive/folders/1g9q6kiO-Vr8hSmi3Q7Pqer3OjEwdR3i3?usp=sharing)
 
 ## ![icons8_linux_48px_1.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/08/23-23-57-17-icons8_linux_48px_1.png) Linux
 

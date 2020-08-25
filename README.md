@@ -94,6 +94,10 @@
 
 2. [Hacker mũ trắng và bảo mật thông tin](https://drive.google.com/drive/folders/1TdInOZlE4iAQ0U4QHfW-X2FSSS8b8auU?usp=sharing)
 
+3. [Hacker Mũ Trắng AEH](https://drive.google.com/drive/folders/1BcWMyrRCjbi4HQDzSb7O112P9-_ECPvR?usp=sharing)
+
+4. [OSCP Đích Đến Của Hacker Mũ Trắng](https://drive.google.com/drive/folders/1d5SPgFUCdRa4GZx3seUPt2SANdWxY6Od?usp=sharing)
+
 ## <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/08/24-00-01-57-icons8_server_64px_1.png" title="" alt="icons8_server_64px_1.png" width="50">Server
 
 1. [Lập trình PHP từ cơ bản đến nâng cao trong 6 tuần](https://drive.google.com/drive/folders/19yhAgJJtWWWBM8xyV9cO_F8cw7jdPdso?usp=sharing)

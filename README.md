@@ -7,6 +7,12 @@
 
 ## <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/08/23-23-51-15-icons8_c%2B%2B_48px_2.png" title="" alt="icons8_c++_48px_2.png" width="50">C/C++
 
+> 1. [Thành thạo C++ qua 108 bài học](https://drive.google.com/drive/folders/1vx3CVIr3BCa2cmFPNyBLytJnTBVgVoX8?usp=sharing)
+> 2. [Học lập trình C/C++ full từ A-Z](https://drive.google.com/drive/folders/1JTmHU9lr79QAHW19Wr_pyv2OJVkPQrhx?usp=sharing)
+> 3. [Cấu trúc dữ liệu và giải thuật kinh điển](https://drive.google.com/drive/folders/1YcUgdWSo9GjHm8j1644oPv5nUhj1tNKB?usp=sharing)
+> 4. [Cấu trúc dữ liệu và giải thuật-TDT](https://drive.google.com/drive/folders/1WHad8E9veuGBA4qItcOdZm1D5MG1ZiAr?usp=sharing)
+> 5. [Lập trình C++ hướng đối tượng](https://drive.google.com/drive/folders/1Rcv33dcrTuWPFz1yeHlxECNS4Crois4K?usp=sharing)
+
 1. [Thành thạo C++ qua 108 bài học](https://drive.google.com/drive/folders/1vx3CVIr3BCa2cmFPNyBLytJnTBVgVoX8?usp=sharing)
 2. [Học lập trình C/C++ full từ A-Z](https://drive.google.com/drive/folders/1JTmHU9lr79QAHW19Wr_pyv2OJVkPQrhx?usp=sharing)
 3. [Cấu trúc dữ liệu và giải thuật kinh điển](https://drive.google.com/drive/folders/1YcUgdWSo9GjHm8j1644oPv5nUhj1tNKB?usp=sharing)
@@ -34,6 +40,8 @@
 7. [Kho đồ hoạ FPT](https://drive.google.com/drive/folders/1rXteUiHe7vStHc6IiZqyZOLy1fJg4LQG?usp=sharing)
 8. [34 Tuyệt chiêu chinh phục Photoshop](https://drive.google.com/drive/folders/1iswARWIL1c-sHnnFmerjGiZ8RhLHkJvX?usp=sharing)
 9. [Tất Tần Tật Về Photoshop Lightroom](https://drive.google.com/drive/folders/1OchBqICrImZ2thtgaXzwTc6cPR1IvGOv?usp=sharing)
+10. [27 Chuyên Đề Photoshop Cho Người Mới Bắt Đầu](https://drive.google.com/drive/folders/1W878VE7OIUeNxjqshSAtCsGiNzNMQpoz?usp=sharing)
+11. [Hướng dẫn 50 Hiệu ứng Photoshop](https://drive.google.com/drive/folders/1rwDNLpOnFCKsYT8St3c7BvSUhHqlEPyf?usp=sharing)
 
 ## <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/08/23-23-54-10-icons8_website_64px.png" title="" alt="icons8_website_64px.png" width="50"> Front-end
 

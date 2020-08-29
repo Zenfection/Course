@@ -83,6 +83,7 @@
 
 > 1. [Làm chủ python trong 4 tuần](https://drive.google.com/drive/folders/1TfALAxoCC44ccSMvLblHz_QItFiCA020?usp=sharing)
 > 2. [Học Máy(Machine Learning) Và Ứng Dụng](https://drive.google.com/drive/folders/1Wel3tuwPg8mTywaTlLE6AHKaoeXWU4mw?usp=sharing)
+> 3. [Lập trình Matlab](https://drive.google.com/drive/folders/1aYvZdI6d2IEc3T31TmcTSiuP6y23LHaq?usp=sharing)
 
 ## ![icons8_hips_40px_1.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/08/24-00-00-05-icons8_hips_40px_1.png) Security
 

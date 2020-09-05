@@ -37,6 +37,7 @@
 > 9. [Tất Tần Tật Về Photoshop Lightroom](https://drive.google.com/drive/folders/1OchBqICrImZ2thtgaXzwTc6cPR1IvGOv?usp=sharing)
 > 10. [27 Chuyên Đề Photoshop Cho Người Mới Bắt Đầu](https://drive.google.com/drive/folders/1W878VE7OIUeNxjqshSAtCsGiNzNMQpoz?usp=sharing)
 > 11. [Hướng dẫn 50 Hiệu ứng Photoshop](https://drive.google.com/drive/folders/1rwDNLpOnFCKsYT8St3c7BvSUhHqlEPyf?usp=sharing)
+> 12. [10 Kỹ Năng Cần Biết Trong Adobe Illustrator](https://drive.google.com/drive/folders/1QDy0km8P05qCBrGknMcu44_2yW88-x_0?usp=sharing)
 
 ## <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/08/23-23-54-10-icons8_website_64px.png" title="" alt="icons8_website_64px.png" width="50"> Front-end
 
@@ -94,6 +95,11 @@
 > 2. [Hacker mũ trắng và bảo mật thông tin](https://drive.google.com/drive/folders/1TdInOZlE4iAQ0U4QHfW-X2FSSS8b8auU?usp=sharing)
 > 3. [Hacker Mũ Trắng AEH](https://drive.google.com/drive/folders/1BcWMyrRCjbi4HQDzSb7O112P9-_ECPvR?usp=sharing)
 > 4. [OSCP Đích Đến Của Hacker Mũ Trắng](https://drive.google.com/drive/folders/1d5SPgFUCdRa4GZx3seUPt2SANdWxY6Od?usp=sharing)
+
+## <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/09/05-15-54-53-icons8-gps_signal.png" title="" alt="icons8-gps_signal.png" width="50">Network
+
+> 1. [Chuyên Gia Mạng Quốc Tế CCNA Routing And Switching](https://drive.google.com/drive/folders/1M26vAMC8QZrqJite9ra0bPdMgqk2YP5B?usp=sharing)
+> 2. [Chuyên Gia Mạng Quốc Tế CCNA Routing And Switching (Phần Mở Rộng)](https://drive.google.com/drive/folders/1t6ZENY1uYTw3vlu5TEQq8ajykXC5ANlD?usp=sharing)
 
 ## <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/08/24-00-01-57-icons8_server_64px_1.png" title="" alt="icons8_server_64px_1.png" width="50">Server
 

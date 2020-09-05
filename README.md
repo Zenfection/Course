@@ -83,6 +83,11 @@
 > 1. [Làm quen với hệ điều hành Ubuntu](https://drive.google.com/drive/folders/1XxsuOKWFF63bkByOU4qVQm7E8_K4EoFB?usp=sharing)
 > 2. [Quản trị Linux siêu tốc](https://drive.google.com/drive/folders/1TBZZ_xEz7zYYaCjrcp2YKxcKnZMjIbTZ?usp=sharing)
 
+## ![icons8-gps_signal.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/09/05-16-34-41-icons8-gps_signal.png)Network
+
+> 1. [Chuyên Gia Mạng Quốc Tế CCNA Routing And Switching](https://drive.google.com/drive/folders/1M26vAMC8QZrqJite9ra0bPdMgqk2YP5B?usp=sharing) 
+> 2. [Chuyên Gia Mạng Quốc Tế CCNA Routing And Switching (Phần Mở Rộng)](https://drive.google.com/drive/folders/1t6ZENY1uYTw3vlu5TEQq8ajykXC5ANlD?usp=sharing)
+
 ## ![icons8_artificial_intelligence_48px_1.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/08/23-23-58-24-icons8_artificial_intelligence_48px_1.png) Python-AI
 
 > 1. [Làm chủ python trong 4 tuần](https://drive.google.com/drive/folders/1TfALAxoCC44ccSMvLblHz_QItFiCA020?usp=sharing)
@@ -95,11 +100,6 @@
 > 2. [Hacker mũ trắng và bảo mật thông tin](https://drive.google.com/drive/folders/1TdInOZlE4iAQ0U4QHfW-X2FSSS8b8auU?usp=sharing)
 > 3. [Hacker Mũ Trắng AEH](https://drive.google.com/drive/folders/1BcWMyrRCjbi4HQDzSb7O112P9-_ECPvR?usp=sharing)
 > 4. [OSCP Đích Đến Của Hacker Mũ Trắng](https://drive.google.com/drive/folders/1d5SPgFUCdRa4GZx3seUPt2SANdWxY6Od?usp=sharing)
-
-## <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/09/05-15-54-53-icons8-gps_signal.png" title="" alt="icons8-gps_signal.png" width="50">Network
-
-> 1. [Chuyên Gia Mạng Quốc Tế CCNA Routing And Switching](https://drive.google.com/drive/folders/1M26vAMC8QZrqJite9ra0bPdMgqk2YP5B?usp=sharing)
-> 2. [Chuyên Gia Mạng Quốc Tế CCNA Routing And Switching (Phần Mở Rộng)](https://drive.google.com/drive/folders/1t6ZENY1uYTw3vlu5TEQq8ajykXC5ANlD?usp=sharing)
 
 ## <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/08/24-00-01-57-icons8_server_64px_1.png" title="" alt="icons8_server_64px_1.png" width="50">Server
 

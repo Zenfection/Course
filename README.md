@@ -4,7 +4,7 @@
 
 > 1. [Lập trình Android từ cơ bản đến thành thạo](https://drive.google.com/drive/folders/1ZK-XFP_DVqpepibgxG86U6qeySvW5HUs?usp=sharing)
 > 2. [Lập trình Android và Kiếm tiền từ tạo App](https://drive.google.com/drive/folders/1exOOee-rg7bR446rqwoJ3czfZI340KYU?usp=sharing)
-> 3. [Lập trình Kotlin toàn phần](https://drive.google.com/drive/folders/1BbuBxi5aM8kZO35mdRjUXojZJQM7f08H?usp=sharing)
+> 3. [Lập trình Kotlin toàn tập](https://drive.google.com/drive/folders/1BbuBxi5aM8kZO35mdRjUXojZJQM7f08H?usp=sharing)
 
 ## <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/08/23-23-51-15-icons8_c%2B%2B_48px_2.png" title="" alt="icons8_c++_48px_2.png" width="50">C/C++
 

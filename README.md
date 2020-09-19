@@ -56,6 +56,9 @@
 > 13. [Lập trình Web trong 25 tuần](https://drive.google.com/drive/folders/1Rik4jDLutg5XHYtkmRQ8o8co1drCVLv0?usp=sharing)
 > 14. [Học Lập Trình Ra Website Hoàn Chỉnh A-Z Với WordPress](https://drive.google.com/drive/folders/1iu-AaQM-aKOvjzaPClJLOkhdGIVUumEB?usp=sharing)
 > 15. [Lập Trình Web Tốc Độ Cao Thời Gian Thực Với NodeJS](https://drive.google.com/drive/folders/1n5oAmmRp_DodY4GJ0h8ZAhiIAhRM3wAE?usp=sharing)
+> 16. [51 Tạo Website miễn phí bằng Blogspot và SEO hiệu quả](https://drive.google.com/drive/folders/1S7JRn2G5s0LivwkKaV2tEJ4TB2didbqw?usp=sharing)
+> 17. [Lập trình React Native với Khoa Phạm](https://drive.google.com/drive/folders/1NgzxWnAU8EA7N5Nar0AUIF8G0XqhI3dH?usp=sharing)
+> 18. [Trọn Bộ Kiến Thức Về AngularJs Trong 6 Giờ](https://drive.google.com/drive/folders/10o1C5hrR_kuSZU3cxMnxAYiB5wB0nEjx?usp=sharing)
 
 ## ![icons8_apple_logo_40px.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/08/23-23-55-08-icons8_apple_logo_40px.png) iOS
 

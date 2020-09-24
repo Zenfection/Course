@@ -5,6 +5,8 @@
 > 1. [Lập trình Android từ cơ bản đến thành thạo](https://drive.google.com/drive/folders/1ZK-XFP_DVqpepibgxG86U6qeySvW5HUs?usp=sharing)
 > 2. [Lập trình Android và Kiếm tiền từ tạo App](https://drive.google.com/drive/folders/1exOOee-rg7bR446rqwoJ3czfZI340KYU?usp=sharing)
 > 3. [Lập trình Kotlin toàn tập](https://drive.google.com/drive/folders/1BbuBxi5aM8kZO35mdRjUXojZJQM7f08H?usp=sharing)
+> 4. [Clone ứng dụng Foody sử dụng Android và FireBase Realtime](https://drive.google.com/drive/folders/1JSK3VEPPobj4gKll8N4y-fx7M_x29E4l?usp=sharing)
+> 5. [Lập trình ứng dụng Android trong 6 tuần](https://drive.google.com/drive/folders/1HDTVgb6qWYqcuhki3SEhDaW6DG3ZQmvM?usp=sharing)
 
 ## <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/08/23-23-51-15-icons8_c%2B%2B_48px_2.png" title="" alt="icons8_c++_48px_2.png" width="50">C/C++
 
@@ -23,6 +25,7 @@
 ## ![icons8_data_protection_40px.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/08/23-23-50-23-icons8_data_protection_40px.png)Database-SQL
 
 > 1. [Phân tích thiết kế cơ sở dữ liệu với 10 dự án](https://drive.google.com/drive/folders/1zVGU5CNdtrHzPSCXpSYc78ph2R3d8CVf?usp=sharing)
+> 2. [Lập trình LinQ toàn tập](https://drive.google.com/drive/folders/1V25QGdgZxNb7eUqDdM7p_-SZr2xI5eG4?usp=sharing)
 
 ## ![icons8_design_48px_1.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/08/23-23-52-03-icons8_design_48px_1.png)Design
 
@@ -38,8 +41,15 @@
 > 10. [27 Chuyên Đề Photoshop Cho Người Mới Bắt Đầu](https://drive.google.com/drive/folders/1W878VE7OIUeNxjqshSAtCsGiNzNMQpoz?usp=sharing)
 > 11. [Hướng dẫn 50 Hiệu ứng Photoshop](https://drive.google.com/drive/folders/1rwDNLpOnFCKsYT8St3c7BvSUhHqlEPyf?usp=sharing)
 > 12. [10 Kỹ Năng Cần Biết Trong Adobe Illustrator](https://drive.google.com/drive/folders/1QDy0km8P05qCBrGknMcu44_2yW88-x_0?usp=sharing)
+> 13. [Adobe Illustrator CC 2017 toàn tập](https://drive.google.com/drive/folders/1y6RjHepmfvJh-2KdZ07vVW3gOvOF6-9q?usp=sharing)
+> 14. [Adobe Photoshop CC 2015 toàn tập](https://drive.google.com/drive/folders/1HgcF_eveqfD7buB553tBBDKvWnqM62o7?usp=sharing)
+> 15. [Adobe Photoshop Thiết Kế Giao Diện Game Mobile](https://drive.google.com/drive/folders/1whPRNuVFkKlAdyQqXRSWu_UsrkHS26Vn?usp=sharing)
+> 16. [Học chỉnh sửa ảnh chuyên nghiệp bằng Adobe LightRoom](https://drive.google.com/drive/folders/16vFQEsW8TYaVcSWtzanF2033FH--pcQA?usp=sharing)
+> 17. [Học CorelDRAW cầm tay chỉ việc trong 3 giờ](https://drive.google.com/drive/folders/17TEWxwk_NAmlJxlygcqF_iN1Yd5G4pk4?usp=sharing)
+> 18. [Học Photoshop một cách bài bản để trở thành nhà thiết kế chuyên nghiệp](https://drive.google.com/drive/folders/1nwoQJjYesLFxl7LfUzLRYWsLqKK8arCm?usp=sharing)
+> 19. [Học thiết kế UX UI WebApp bằng Adobe Photoshop Adobe Muse và Adobe Experience design CC 2017](https://drive.google.com/drive/folders/1PHvMWaPZyn66-j77ls2Gl-MeRPBj0nkR?usp=sharing)
 
-## <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/08/23-23-54-10-icons8_website_64px.png" title="" alt="icons8_website_64px.png" width="50"> Front-end
+## <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/08/23-23-54-10-icons8_website_64px.png" title="" alt="icons8_website_64px.png" width="50"> Web
 
 > 1. [HTML5 cho người mới bắt đầu](https://drive.google.com/drive/folders/1sxD_QQjc0eeJW9boacVnFPDtjeE5SJRM?usp=sharing)
 > 2. [Javascript cơ bản](https://drive.google.com/drive/folders/1O4h6156gMXiFVS7JGaNbDlATndRfyudT?usp=sharing)
@@ -59,6 +69,16 @@
 > 16. [51 Tạo Website miễn phí bằng Blogspot và SEO hiệu quả](https://drive.google.com/drive/folders/1S7JRn2G5s0LivwkKaV2tEJ4TB2didbqw?usp=sharing)
 > 17. [Lập trình React Native với Khoa Phạm](https://drive.google.com/drive/folders/1NgzxWnAU8EA7N5Nar0AUIF8G0XqhI3dH?usp=sharing)
 > 18. [Trọn Bộ Kiến Thức Về AngularJs Trong 6 Giờ](https://drive.google.com/drive/folders/10o1C5hrR_kuSZU3cxMnxAYiB5wB0nEjx?usp=sharing)
+> 19. [Xây dựng Single-Page Web App với AngularJS Routing](https://drive.google.com/drive/folders/1cxIAQ9GITEXfkAhO-aMrmjCtwsHgLrPT?usp=sharing)
+> 20. [Xây dựng website hoàn chỉnh với Laravel PHP Framework](https://drive.google.com/drive/folders/1P9A158DnoTi87Hmi0iaqjwlZ_IDYea_Q?usp=sharing)
+> 21. [Xây dựng Website Responsive với HTML5 CSS3](https://drive.google.com/drive/folders/1GSQ-VbqqbEXY0bCBBBQt33t7n_1pa2xv?usp=sharing)
+> 22. [Bootstrap CSS Framework - CSS Component](https://drive.google.com/drive/folders/1_Iz95eA_XMVtAOVPzJi1aKi3g648T06O?usp=sharing)
+> 23. [Học tất tần tật về Javascript từ đầu](https://drive.google.com/drive/folders/1C_Mt-SPFf5ca6djOncuZxMivZtQofdzn?usp=sharing)
+> 24. [Lập trình JavaScript và TyperScript từ con số 0](https://drive.google.com/drive/folders/1OrnlKIviGsGGYB2SuLEeL9aXBYK_cmRa?usp=sharing)
+> 25. [Học lập trình React js và Redux từ đầu, tạo ứng dụng fullstack với Node JS + React JS](https://drive.google.com/drive/folders/1j8h81s4NJtbMjvfCNL7s7XTjT9MMY5tD?usp=sharing)
+> 26. [Lập trình FULLSTACK với ANGULAR - PHP - MYSQL](https://drive.google.com/drive/folders/1jqT1BXvX5hrK5F3uhWvosq02yGWkKBTW?usp=sharing)
+> 27. [Lập trình Frontend nâng cao qua project thực tế](https://drive.google.com/drive/folders/1OCczdU8DJfVsFbo5gGIcRyLbHQZcq7zD?usp=sharing)
+> 28. [Học lập trình Web - CSS3 cơ bản và nâng cao](https://drive.google.com/drive/folders/1SoPR10d8WiSpXpJ3rmzaj2gVZKtt0DXu?usp=sharing)
 
 ## ![icons8_apple_logo_40px.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/08/23-23-55-08-icons8_apple_logo_40px.png) iOS
 
@@ -72,6 +92,7 @@
 > 3. [Điện tử cơ bản Phần 2](https://drive.google.com/drive/folders/1YMW-KvChtFy1v6NqCoG50_IVPK74xwXG?usp=sharing)
 > 4. [Robotics Căn Bản-Chế Tạo Robot Điều Khiển Bằng Bluetooth](https://drive.google.com/drive/folders/1uk-sxbqqy51nBki-wd7CZMIPIoqBOgkP?usp=sharing)
 > 5. [Xây Dựng Sản Phẩm Internet of Things](https://drive.google.com/drive/folders/1l93NStH60RhW3pwOgPpY3eQUlEk3pXYj?usp=sharing)
+> 6. [Lập trình điều khiển cánh tay robot trong 7 ngày](https://drive.google.com/drive/folders/1czOmCKPkaXolIF-cQO8Q_uz7SNYG2hrk?usp=sharing)
 
 ## ![icons8_java_48px.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/08/23-23-56-37-icons8_java_48px.png) Java
 
@@ -112,6 +133,7 @@
 > 4. [Lập trình Web chuyên nghiệp với PHP-Level 1](https://drive.google.com/drive/folders/1Ob7qlkmDXXrECQhcueHb_K3npRbzG7o1?usp=sharing)
 > 5. [Lập trình Web chuyên nghiệp với PHP-Level 2](https://drive.google.com/drive/folders/1hyxsmdBqrs5BDbk6vVoiurs9yLTJQ87T?usp=sharing)
 > 6. [Lập trình Web chuyên nghiệp với PHP-Level 3](https://drive.google.com/drive/folders/1-u80aHmKyoa7IK25ME5pF2SOqN8_8e7E?usp=sharing)
+> 7. [Lập trình Backend cho website bằng PHPMysql theo mô hình MVC với Codeigniter Framework 3x](https://drive.google.com/drive/folders/1d_buklBhkKiFHCUJGPU-AnagG5lPMW-c?usp=sharing)
 
 ## ![icons8_office_365_48px_1.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/08/24-00-03-31-icons8_office_365_48px_1.png) Office
 

@@ -21,6 +21,8 @@
 > 1. [Lập trình C# căn bản](https://drive.google.com/drive/folders/12_cCLYzOnvA0VIpoppJAFUQ6q3Rbfx4i?usp=sharing)
 > 2. [Lập trình C# nâng cao](https://drive.google.com/drive/folders/1iey7qoqNqZUydN-isJWP3wrqmAAYzAa6?usp=sharing)
 > 3. [Lập trình WinForm với C# 10 ứng dụng](https://drive.google.com/drive/folders/1kmfvyQ8PJEfwj7-9x5-MBqHl6CmNyV1T?usp=sharing)
+> 4. [Bước đầu với ứng dụng website trên nền tảng ASP.NET MVC](https://drive.google.com/drive/folders/1x4hGG65WghWtiJnCTZbavu9jPmzj3aRw?usp=sharing)
+> 5. [Khóa học ASP.NET và Xây dựng hoàn chỉnh ứng dụng website động](https://drive.google.com/drive/folders/1IN0N-R4bwg0FDqLSgm6gKTk2pm25M8Ms?usp=sharing)
 
 ## ![icons8_data_protection_40px.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/08/23-23-50-23-icons8_data_protection_40px.png)Database-SQL
 
@@ -31,7 +33,7 @@
 
 > 1. [Học Adobe Illustrator Từ Căn Bản Đến Nâng Cao](https://drive.google.com/drive/folders/15Ru33okIFFIv2enY0mEy0TdWMNc5bekg?usp=sharing)
 > 2. [Học Thiết Kế Đồ Hoạ Chuyên Nghiệp](https://drive.google.com/drive/folders/1y0pnvCR_-ePR3BbWtS2xSXdc8dcYYYsY?usp=sharing)
-> 3. [Học thiết kế qua bài tập thực tế](https://drive.google.com/drive/folders/1ZHzEySe9okcqUsyW7vuejSIj5KG9EMqX?usp=sharing)
+> 3. [Học tư duy thiết kế qua bài tập thực tế](https://drive.google.com/drive/folders/1ZHzEySe9okcqUsyW7vuejSIj5KG9EMqX?usp=sharing)
 > 4. [Thiết kế Đồ hoạ thực chiến](https://drive.google.com/drive/folders/1RQgeG66f5oPrqex3Rje5FKiOkhvCXxo3?usp=sharing)
 > 5. [Thiết Kế Logo-Xây Dựng Thương Hiệu Ấn Tượng](https://drive.google.com/drive/folders/1Qyr7WPyjTuJVgeFCVvTYS90BjBx1IyGv?usp=sharing)
 > 6. [Tự học thiết kế UX](https://drive.google.com/drive/folders/1Ohu4u0wwn1I8hgEEyURq6v_C5s38-qGs?usp=sharing)
@@ -48,6 +50,10 @@
 > 17. [Học CorelDRAW cầm tay chỉ việc trong 3 giờ](https://drive.google.com/drive/folders/17TEWxwk_NAmlJxlygcqF_iN1Yd5G4pk4?usp=sharing)
 > 18. [Học Photoshop một cách bài bản để trở thành nhà thiết kế chuyên nghiệp](https://drive.google.com/drive/folders/1nwoQJjYesLFxl7LfUzLRYWsLqKK8arCm?usp=sharing)
 > 19. [Học thiết kế UX UI WebApp bằng Adobe Photoshop Adobe Muse và Adobe Experience design CC 2017](https://drive.google.com/drive/folders/1PHvMWaPZyn66-j77ls2Gl-MeRPBj0nkR?usp=sharing)
+> 20. [Học thiết kế chuyên nghiệp bằng Photoshop qua các bài thực hành](https://drive.google.com/drive/folders/14poxDGTNow_RXHoomFYVuev8S0wkFQ1p?usp=sharing)
+> 21. [Khoá học thiết kế đồ họa nâng cao với Adobe Ilustrator, Adobe Photoshop](https://drive.google.com/drive/folders/1DLDFDQZKxQNJrGPXjhxl0rUFFmlghFs9?usp=sharing)
+> 22. [Photoshop CS6 cho người mới bắt đầu](https://drive.google.com/drive/folders/1EXleH4yADqIWf2MjrZssdToUuNaasHXC?usp=sharing)
+> 23. [Photoshop thần thánh](https://drive.google.com/drive/folders/1X2N1uUC6P8RvVuQ6OQPtjT9P3tAHNzAY?usp=sharing)
 
 ## <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/08/23-23-54-10-icons8_website_64px.png" title="" alt="icons8_website_64px.png" width="50"> Web
 
@@ -79,6 +85,8 @@
 > 26. [Lập trình FULLSTACK với ANGULAR - PHP - MYSQL](https://drive.google.com/drive/folders/1jqT1BXvX5hrK5F3uhWvosq02yGWkKBTW?usp=sharing)
 > 27. [Lập trình Frontend nâng cao qua project thực tế](https://drive.google.com/drive/folders/1OCczdU8DJfVsFbo5gGIcRyLbHQZcq7zD?usp=sharing)
 > 28. [Học lập trình Web - CSS3 cơ bản và nâng cao](https://drive.google.com/drive/folders/1SoPR10d8WiSpXpJ3rmzaj2gVZKtt0DXu?usp=sharing)
+> 29. [Khoá học thiết kế web chuẩn Seo bằng WordPress cho người mới bắt đầu](https://drive.google.com/drive/folders/15aL8zFOaLDWXPPGd7f2OlqZSz5hHAyok?usp=sharing)
+> 30. [Làm 5 dự án website để trở thành lập trình viên chuyên nghiệp](https://drive.google.com/drive/folders/1kF0Wt5Vy-GPgm5mhnPMzBz-pD2x2uqoS?usp=sharing)
 
 ## ![icons8_apple_logo_40px.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/08/23-23-55-08-icons8_apple_logo_40px.png) iOS
 
@@ -98,6 +106,7 @@
 
 > 1. [Java cơ bản trong 4 tuần](https://drive.google.com/drive/folders/1nQTKHf8SDY_MbP-zeUUWElu2-XK8o-80?usp=sharing)
 > 2. [Java Spring MVC](https://drive.google.com/drive/folders/19vJFgr3ZeqV9ixrU-On5cSbkyFxZVcex?usp=sharing)
+> 3. [Nền tảng lập trình Java cho người mới bắt đầu](https://drive.google.com/drive/folders/1V6NgNnAwJ69MYA7KX5EpwZ_bN3t185Pn?usp=sharing)
 
 ## ![icons8-search_property.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/08/24-16-04-35-icons8-search_property.png) Tester
 
@@ -112,6 +121,7 @@
 
 > 1. [Chuyên Gia Mạng Quốc Tế CCNA Routing And Switching](https://drive.google.com/drive/folders/1M26vAMC8QZrqJite9ra0bPdMgqk2YP5B?usp=sharing) 
 > 2. [Chuyên Gia Mạng Quốc Tế CCNA Routing And Switching (Phần Mở Rộng)](https://drive.google.com/drive/folders/1t6ZENY1uYTw3vlu5TEQq8ajykXC5ANlD?usp=sharing)
+> 3. [Kỹ thuật quản trị an ninh mạng Cisco CCNA Security](https://drive.google.com/drive/folders/1fAEy3M_bU-9sq5abf04brDEH8-ByjovT?usp=sharing)
 
 ## ![icons8_artificial_intelligence_48px_1.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/08/23-23-58-24-icons8_artificial_intelligence_48px_1.png) Python-AI
 
@@ -141,6 +151,9 @@
 > 1. [Microsoft Word Cơ Bản Và Hiệu Quả](https://drive.google.com/drive/folders/1Y995DiwpRNTJHAOmydEugbBFA6XFyQWS?usp=sharing)
 > 2. [Luyện Excel từ cơ bản tới nâng cao](https://drive.google.com/drive/folders/1qkFOucYL0SlEHy1wvtHP_dfGSaUjEunj?usp=sharing)
 > 3. [Powerpoint-Những Điều Bạn Chưa Biết](https://drive.google.com/drive/folders/1Te2U7l8lxmsjRFcF21v1_0eFPgbZ7B1a?usp=sharing)
+> 4. [Học Excel ứng dụng trong thực tiễn chuyên sâu](https://drive.google.com/drive/folders/1ZLqNMnclhfQbz2BaEM1uWaVbtk7MJLtY?usp=sharing)
+> 5. [Học thiết kế và làm video Profile cá nhân bằng Power Point qua bài thực hành](https://drive.google.com/drive/folders/14Ok2JnY4CN9L-m57IXz9dQfp25TgyzJN?usp=sharing)
+> 6. [Làm báo cáo trong 15 phút với Excel Pivot](https://drive.google.com/drive/folders/1rpFgiR3iEQ2QZ9OZw-wlz6xCWW4Vm7Yf?usp=sharing)
 
 ## ![icons8_calculate_48px.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/08/24-00-04-23-icons8_calculate_48px.png) Advanced Math
 

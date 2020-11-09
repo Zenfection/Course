@@ -5,8 +5,8 @@
 > 1. [Lập trình Android từ cơ bản đến thành thạo](https://drive.google.com/drive/folders/1ZK-XFP_DVqpepibgxG86U6qeySvW5HUs?usp=sharing)
 > 2. [Lập trình Android và Kiếm tiền từ tạo App](https://drive.google.com/drive/folders/1exOOee-rg7bR446rqwoJ3czfZI340KYU?usp=sharing)
 > 3. [Lập trình Kotlin toàn tập](https://drive.google.com/drive/folders/1BbuBxi5aM8kZO35mdRjUXojZJQM7f08H?usp=sharing)
-> 4. [Clone ứng dụng Foody sử dụng Android và FireBase Realtime](https://drive.google.com/drive/folders/1JSK3VEPPobj4gKll8N4y-fx7M_x29E4l?usp=sharing)
-> 5. [Lập trình ứng dụng Android trong 6 tuần](https://drive.google.com/drive/folders/1HDTVgb6qWYqcuhki3SEhDaW6DG3ZQmvM?usp=sharing)
+> 4. [Clone ứng dụng Foody sử dụng Android và FireBase Realtime](https://drive.google.com/drive/folders/1ARD9D4cnAhnLGm82kyDXHe-UjAVB20dt?usp=sharing)
+> 5. [Lập trình ứng dụng Android trong 6 tuần](https://drive.google.com/drive/folders/1099DRNmDE9L1CZdowqN92dK_JJeYSHKv?usp=sharing)
 
 ## <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/08/23-23-51-15-icons8_c%2B%2B_48px_2.png" title="" alt="icons8_c++_48px_2.png" width="50">C/C++
 
@@ -21,13 +21,13 @@
 > 1. [Lập trình C# căn bản](https://drive.google.com/drive/folders/12_cCLYzOnvA0VIpoppJAFUQ6q3Rbfx4i?usp=sharing)
 > 2. [Lập trình C# nâng cao](https://drive.google.com/drive/folders/1iey7qoqNqZUydN-isJWP3wrqmAAYzAa6?usp=sharing)
 > 3. [Lập trình WinForm với C# 10 ứng dụng](https://drive.google.com/drive/folders/1kmfvyQ8PJEfwj7-9x5-MBqHl6CmNyV1T?usp=sharing)
-> 4. [Bước đầu với ứng dụng website trên nền tảng ASP.NET MVC](https://drive.google.com/drive/folders/1x4hGG65WghWtiJnCTZbavu9jPmzj3aRw?usp=sharing)
-> 5. [Khóa học ASP.NET và Xây dựng hoàn chỉnh ứng dụng website động](https://drive.google.com/drive/folders/1IN0N-R4bwg0FDqLSgm6gKTk2pm25M8Ms?usp=sharing)
+> 4. [Bước đầu với ứng dụng website trên nền tảng ASP.NET MVC](https://drive.google.com/drive/folders/1DiGOC_Vik30esgjEyY-Lw8mt_Eaf2J6l?usp=sharing)
+> 5. [Khóa học ASP.NET và Xây dựng hoàn chỉnh ứng dụng website động](https://drive.google.com/drive/folders/1Cn7TB7SBfdnX9pQg2NnxeQrqD1r07Z46?usp=sharing)
 
 ## ![icons8_data_protection_40px.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/08/23-23-50-23-icons8_data_protection_40px.png)Database-SQL
 
 > 1. [Phân tích thiết kế cơ sở dữ liệu với 10 dự án](https://drive.google.com/drive/folders/1zVGU5CNdtrHzPSCXpSYc78ph2R3d8CVf?usp=sharing)
-> 2. [Lập trình LinQ toàn tập](https://drive.google.com/drive/folders/1V25QGdgZxNb7eUqDdM7p_-SZr2xI5eG4?usp=sharing)
+> 2. [Lập trình LinQ toàn tập]([002-Lập trình LinQ toàn tập - Google Drive](https://drive.google.com/drive/folders/19rHJLRUEiBDkZKyoSobh4XYzrxyAsrPa?usp=sharing))
 
 ## ![icons8_design_48px_1.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/08/23-23-52-03-icons8_design_48px_1.png)Design
 
@@ -43,17 +43,17 @@
 > 10. [27 Chuyên Đề Photoshop Cho Người Mới Bắt Đầu](https://drive.google.com/drive/folders/1W878VE7OIUeNxjqshSAtCsGiNzNMQpoz?usp=sharing)
 > 11. [Hướng dẫn 50 Hiệu ứng Photoshop](https://drive.google.com/drive/folders/1rwDNLpOnFCKsYT8St3c7BvSUhHqlEPyf?usp=sharing)
 > 12. [10 Kỹ Năng Cần Biết Trong Adobe Illustrator](https://drive.google.com/drive/folders/1QDy0km8P05qCBrGknMcu44_2yW88-x_0?usp=sharing)
-> 13. [Adobe Illustrator CC 2017 toàn tập](https://drive.google.com/drive/folders/1y6RjHepmfvJh-2KdZ07vVW3gOvOF6-9q?usp=sharing)
-> 14. [Adobe Photoshop CC 2015 toàn tập](https://drive.google.com/drive/folders/1HgcF_eveqfD7buB553tBBDKvWnqM62o7?usp=sharing)
-> 15. [Adobe Photoshop Thiết Kế Giao Diện Game Mobile](https://drive.google.com/drive/folders/1whPRNuVFkKlAdyQqXRSWu_UsrkHS26Vn?usp=sharing)
-> 16. [Học chỉnh sửa ảnh chuyên nghiệp bằng Adobe LightRoom](https://drive.google.com/drive/folders/16vFQEsW8TYaVcSWtzanF2033FH--pcQA?usp=sharing)
-> 17. [Học CorelDRAW cầm tay chỉ việc trong 3 giờ](https://drive.google.com/drive/folders/17TEWxwk_NAmlJxlygcqF_iN1Yd5G4pk4?usp=sharing)
-> 18. [Học Photoshop một cách bài bản để trở thành nhà thiết kế chuyên nghiệp](https://drive.google.com/drive/folders/1nwoQJjYesLFxl7LfUzLRYWsLqKK8arCm?usp=sharing)
-> 19. [Học thiết kế UX UI WebApp bằng Adobe Photoshop Adobe Muse và Adobe Experience design CC 2017](https://drive.google.com/drive/folders/1PHvMWaPZyn66-j77ls2Gl-MeRPBj0nkR?usp=sharing)
-> 20. [Học thiết kế chuyên nghiệp bằng Photoshop qua các bài thực hành](https://drive.google.com/drive/folders/14poxDGTNow_RXHoomFYVuev8S0wkFQ1p?usp=sharing)
-> 21. [Khoá học thiết kế đồ họa nâng cao với Adobe Ilustrator, Adobe Photoshop](https://drive.google.com/drive/folders/1DLDFDQZKxQNJrGPXjhxl0rUFFmlghFs9?usp=sharing)
-> 22. [Photoshop CS6 cho người mới bắt đầu](https://drive.google.com/drive/folders/1EXleH4yADqIWf2MjrZssdToUuNaasHXC?usp=sharing)
-> 23. [Photoshop thần thánh](https://drive.google.com/drive/folders/1X2N1uUC6P8RvVuQ6OQPtjT9P3tAHNzAY?usp=sharing)
+> 13. [Adobe Illustrator CC 2017 toàn tập](https://drive.google.com/drive/folders/1e-MESQVVRQvr8B0vEaI2g7R-ScdT04pS?usp=sharing)
+> 14. [Adobe Photoshop CC 2015 toàn tập](https://drive.google.com/drive/folders/1cBbY-P2WMhUXFjbYEND_pcQ7mXAsDuQ-?usp=sharing)
+> 15. [Adobe Photoshop Thiết Kế Giao Diện Game Mobile](https://drive.google.com/drive/folders/1exF_HE1BzW_OQ5n0hoGBTaoVGnj5faqj?usp=sharing)
+> 16. [Học chỉnh sửa ảnh chuyên nghiệp bằng Adobe LightRoom](https://drive.google.com/drive/folders/1ozuWv1SHnVR217V0eTWvkMAbtR8CMfjm?usp=sharing)
+> 17. [Học CorelDRAW cầm tay chỉ việc trong 3 giờ](https://drive.google.com/drive/folders/1qRVGokaMIURN6_Rrir_lgO4gKmGmaANh?usp=sharing)
+> 18. [Học Photoshop một cách bài bản để trở thành nhà thiết kế chuyên nghiệp](https://drive.google.com/drive/folders/1E2DeZHA3Xeg1J_Ec_f9EIvaN2IMtbDss?usp=sharing)
+> 19. [Học thiết kế UX UI WebApp bằng Adobe Photoshop Adobe Muse và Adobe Experience design CC 2017](https://drive.google.com/drive/folders/1IFkdvNZlAnLRf1Ii0Ie2hV5irG0dnXYA?usp=sharing)
+> 20. [Học thiết kế chuyên nghiệp bằng Photoshop qua các bài thực hành](https://drive.google.com/drive/folders/1tJ2pFNdRogJfbSBPH2rUm1LZh68pjPa1?usp=sharing)
+> 21. [Khoá học thiết kế đồ họa nâng cao với Adobe Ilustrator, Adobe Photoshop](https://drive.google.com/drive/folders/1TGpa-JHwDTqrOYFJ8tE2xkdM2L4DZNwG?usp=sharing)
+> 22. [Photoshop CS6 cho người mới bắt đầu](https://drive.google.com/drive/folders/1oNlU7Xqa2nLLOyAWE7SMrWxytraY-c5r?usp=sharing)
+> 23. [Photoshop thần thánh](https://drive.google.com/drive/folders/1sLjEjoSaSQ_u8HDkeUBA6l5nSi-mwHnZ?usp=sharing)
 
 ## <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/08/23-23-54-10-icons8_website_64px.png" title="" alt="icons8_website_64px.png" width="50"> Web
 

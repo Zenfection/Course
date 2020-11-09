@@ -100,13 +100,13 @@
 > 3. [Điện tử cơ bản Phần 2](https://drive.google.com/drive/folders/1YMW-KvChtFy1v6NqCoG50_IVPK74xwXG?usp=sharing)
 > 4. [Robotics Căn Bản-Chế Tạo Robot Điều Khiển Bằng Bluetooth](https://drive.google.com/drive/folders/1uk-sxbqqy51nBki-wd7CZMIPIoqBOgkP?usp=sharing)
 > 5. [Xây Dựng Sản Phẩm Internet of Things](https://drive.google.com/drive/folders/1l93NStH60RhW3pwOgPpY3eQUlEk3pXYj?usp=sharing)
-> 6. [Lập trình điều khiển cánh tay robot trong 7 ngày](https://drive.google.com/drive/folders/1czOmCKPkaXolIF-cQO8Q_uz7SNYG2hrk?usp=sharing)
+> 6. [Lập trình điều khiển cánh tay robot trong 7 ngày](https://drive.google.com/drive/folders/1oSyf0Mc4QPZp10FkjL6N-sAujbQVZ7De?usp=sharing)
 
 ## ![icons8_java_48px.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/08/23-23-56-37-icons8_java_48px.png) Java
 
 > 1. [Java cơ bản trong 4 tuần](https://drive.google.com/drive/folders/1nQTKHf8SDY_MbP-zeUUWElu2-XK8o-80?usp=sharing)
 > 2. [Java Spring MVC](https://drive.google.com/drive/folders/19vJFgr3ZeqV9ixrU-On5cSbkyFxZVcex?usp=sharing)
-> 3. [Nền tảng lập trình Java cho người mới bắt đầu](https://drive.google.com/drive/folders/1V6NgNnAwJ69MYA7KX5EpwZ_bN3t185Pn?usp=sharing)
+> 3. [Nền tảng lập trình Java cho người mới bắt đầu](https://drive.google.com/drive/folders/1P31u3QFvXLGkrgb-Z-cN-AAAMVv5YMBT?usp=sharing)
 
 ## ![icons8-search_property.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/08/24-16-04-35-icons8-search_property.png) Tester
 
@@ -121,7 +121,7 @@
 
 > 1. [Chuyên Gia Mạng Quốc Tế CCNA Routing And Switching](https://drive.google.com/drive/folders/1M26vAMC8QZrqJite9ra0bPdMgqk2YP5B?usp=sharing) 
 > 2. [Chuyên Gia Mạng Quốc Tế CCNA Routing And Switching (Phần Mở Rộng)](https://drive.google.com/drive/folders/1t6ZENY1uYTw3vlu5TEQq8ajykXC5ANlD?usp=sharing)
-> 3. [Kỹ thuật quản trị an ninh mạng Cisco CCNA Security](https://drive.google.com/drive/folders/1fAEy3M_bU-9sq5abf04brDEH8-ByjovT?usp=sharing)
+> 3. [Kỹ thuật quản trị an ninh mạng Cisco CCNA Security](https://drive.google.com/drive/folders/1zhOWK-s5u27RozCf6vM-CfwhX95pMYyA?usp=sharing)
 
 ## ![icons8_artificial_intelligence_48px_1.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/08/23-23-58-24-icons8_artificial_intelligence_48px_1.png) Python-AI
 
@@ -144,16 +144,16 @@
 > 4. [Lập trình Web chuyên nghiệp với PHP-Level 1](https://drive.google.com/drive/folders/1Ob7qlkmDXXrECQhcueHb_K3npRbzG7o1?usp=sharing)
 > 5. [Lập trình Web chuyên nghiệp với PHP-Level 2](https://drive.google.com/drive/folders/1hyxsmdBqrs5BDbk6vVoiurs9yLTJQ87T?usp=sharing)
 > 6. [Lập trình Web chuyên nghiệp với PHP-Level 3](https://drive.google.com/drive/folders/1-u80aHmKyoa7IK25ME5pF2SOqN8_8e7E?usp=sharing)
-> 7. [Lập trình Backend cho website bằng PHPMysql theo mô hình MVC với Codeigniter Framework 3x](https://drive.google.com/drive/folders/1d_buklBhkKiFHCUJGPU-AnagG5lPMW-c?usp=sharing)
+> 7. [Lập trình Backend cho website bằng PHPMysql theo mô hình MVC với Codeigniter Framework 3x](https://drive.google.com/drive/folders/1QZfJK4Xp1e3WkPNaK3cU__daBFizgSNK?usp=sharing)
 
 ## ![icons8_office_365_48px_1.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/08/24-00-03-31-icons8_office_365_48px_1.png) Office
 
 > 1. [Microsoft Word Cơ Bản Và Hiệu Quả](https://drive.google.com/drive/folders/1Y995DiwpRNTJHAOmydEugbBFA6XFyQWS?usp=sharing)
 > 2. [Luyện Excel từ cơ bản tới nâng cao](https://drive.google.com/drive/folders/1qkFOucYL0SlEHy1wvtHP_dfGSaUjEunj?usp=sharing)
 > 3. [Powerpoint-Những Điều Bạn Chưa Biết](https://drive.google.com/drive/folders/1Te2U7l8lxmsjRFcF21v1_0eFPgbZ7B1a?usp=sharing)
-> 4. [Học Excel ứng dụng trong thực tiễn chuyên sâu](https://drive.google.com/drive/folders/1ZLqNMnclhfQbz2BaEM1uWaVbtk7MJLtY?usp=sharing)
-> 5. [Học thiết kế và làm video Profile cá nhân bằng Power Point qua bài thực hành](https://drive.google.com/drive/folders/14Ok2JnY4CN9L-m57IXz9dQfp25TgyzJN?usp=sharing)
-> 6. [Làm báo cáo trong 15 phút với Excel Pivot](https://drive.google.com/drive/folders/1rpFgiR3iEQ2QZ9OZw-wlz6xCWW4Vm7Yf?usp=sharing)
+> 4. [Học Excel ứng dụng trong thực tiễn chuyên sâu - Google Drive](https://drive.google.com/drive/folders/1TzcdDb4jEAN6hVTNoHobBoitIVhe10mx?usp=sharing)
+> 5. [Học thiết kế và làm video Profile cá nhân bằng Power Point qua bài thực hành](https://drive.google.com/drive/folders/1UQYT8-XctqmgBEtX7DmIKnGF0qOplT3d?usp=sharing)
+> 6. [Làm báo cáo trong 15 phút với Excel Pivot](https://drive.google.com/drive/folders/18tIImG7lQf5lPBXOrGvgCC4wLNFoWu07?usp=sharing)
 
 ## ![icons8_calculate_48px.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/08/24-00-04-23-icons8_calculate_48px.png) Advanced Math
 

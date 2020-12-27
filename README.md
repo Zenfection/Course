@@ -87,6 +87,7 @@
 > 28. [Học lập trình Web - CSS3 cơ bản và nâng cao](https://drive.google.com/drive/folders/15N9gdGxX6PH3h0MrgirsoPBEu5dE9VkV?usp=sharing)
 > 29. [Khoá học thiết kế web chuẩn Seo bằng WordPress cho người mới bắt đầu](https://drive.google.com/drive/folders/1zIPmBXpMpVRFRlZJPtXTfBuC8Ql7XcjK?usp=sharing)
 > 30. [Làm 5 dự án website để trở thành lập trình viên chuyên nghiệp](https://drive.google.com/drive/folders/1LNAHAQ2FCLTpu7r-hw5su9TkM9B4cqBR?usp=sharing)
+> 31. [Jquery từ cơ bản đến nâng cao](https://drive.google.com/drive/folders/1Zj3V3n4VpUbuHsZNjv4uy7bE1xrjW2JP?usp=sharing)
 
 ## ![icons8_apple_logo_40px.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/08/23-23-55-08-icons8_apple_logo_40px.png) iOS
 

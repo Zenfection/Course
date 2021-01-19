@@ -58,7 +58,7 @@
 ## <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/08/23-23-54-10-icons8_website_64px.png" title="" alt="icons8_website_64px.png" width="50"> Web
 
 > 1. [HTML5 cho người mới bắt đầu](https://drive.google.com/drive/folders/1sxD_QQjc0eeJW9boacVnFPDtjeE5SJRM?usp=sharing)
-> 2. [Javascript cơ bản](https://drive.google.com/drive/folders/1O4h6156gMXiFVS7JGaNbDlATndRfyudT?usp=sharing)
+> 2. [Javascript cơ bản](https://drive.google.com/drive/folders/1z_Y3ulS12LvYnnRbQTtkNu3c7-AU9FJy?usp=sharing)
 > 3. [Javascript Chuyên Sâu](https://drive.google.com/drive/folders/1umRl9cE1eemU9OieDkcMbeBlQc46i9LB?usp=sharing)
 > 4. [7 Công Thức Làm Web Nhanh](https://drive.google.com/drive/folders/1HtlXNVFqtFC9LNgAYG60-gh4x9YE3MqO?usp=sharing)
 > 5. [Chat Box tự dộng trên Messenger](https://drive.google.com/drive/folders/1yIQ8eg3uEly-XYZ67vZlCJn2gN-9xpar?usp=sharing)
@@ -88,6 +88,8 @@
 > 29. [Khoá học thiết kế web chuẩn Seo bằng WordPress cho người mới bắt đầu](https://drive.google.com/drive/folders/1zIPmBXpMpVRFRlZJPtXTfBuC8Ql7XcjK?usp=sharing)
 > 30. [Làm 5 dự án website để trở thành lập trình viên chuyên nghiệp](https://drive.google.com/drive/folders/1LNAHAQ2FCLTpu7r-hw5su9TkM9B4cqBR?usp=sharing)
 > 31. [Jquery từ cơ bản đến nâng cao](https://drive.google.com/drive/folders/1Zj3V3n4VpUbuHsZNjv4uy7bE1xrjW2JP?usp=sharing)
+> 32. [Trọn bộ NodeJS](https://drive.google.com/drive/folders/19bgXz8YREty29qL_fNopMDqdddeKajz6?usp=sharing)
+> 33. [Thiết kế Web bằng Wordpress](https://drive.google.com/drive/folders/1TOVzcIkrs-zRVoZNfy0D5DHZqLw3vwV9?usp=sharing)
 
 ## ![icons8_apple_logo_40px.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/08/23-23-55-08-icons8_apple_logo_40px.png) iOS
 

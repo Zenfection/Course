@@ -1,41 +1,104 @@
-![11ty.png](https://raw.githubusercontent.com/Zenfection/Course/master/assets/11ty.png)
+<a href="https://www.11ty.dev">
+    <img src="https://raw.githubusercontent.com/Zenfection/Course/master/assets/11ty.png" width="50">
+    11ty
+</a>
 
-![a11y.png](https://raw.githubusercontent.com/Zenfection/Course/master/assets/a11y.png)
+<a href="https://www.a11yproject.com">
+    <img src="https://raw.githubusercontent.com/Zenfection/Course/master/assets/a11y.png" width="50">
+    a11y
+</a>
 
-![algolia.png](https://raw.githubusercontent.com/Zenfection/Course/master/assets/algolia.png)
+<a href="https://www.algolia.com">
+    <img src="https://raw.githubusercontent.com/Zenfection/Course/master/assets/algolia.png" width="50">
+    algolia
+</a>
 
-![android.png](https://raw.githubusercontent.com/Zenfection/Course/master/assets/android.png)
+<a href="https://www.android.com">
+    <img src="https://raw.githubusercontent.com/Zenfection/Course/master/assets/android.png" width="50">
+    android
+</a>
 
-![angular.png](https://raw.githubusercontent.com/Zenfection/Course/master/assets/angular.png)
+<a href="https://angular.io">
+    <img src="https://raw.githubusercontent.com/Zenfection/Course/master/assets/angular.png" width="50">
+    angular
+</a>
 
-![aphrodite.png](https://raw.githubusercontent.com/Zenfection/Course/master/assets/aphrodite.png)
+<a href="">
+    <img src="https://raw.githubusercontent.com/Zenfection/Course/master/assets/aphrodite.png" width="50">
+    aphrodite
+</a>
 
-![aria.png](https://raw.githubusercontent.com/Zenfection/Course/master/assets/aria.png)
+<a href="">
+    <img src="https://raw.githubusercontent.com/Zenfection/Course/master/assets/aria.png" width="50">
+    aria
+</a>
 
-![asp.png](https://raw.githubusercontent.com/Zenfection/Course/master/assets/asp.png)
+<a href="">
+    <img src="https://raw.githubusercontent.com/Zenfection/Course/master/assets/asp.png" width="50">
+    asp
+</a>
 
-![auth0.png](https://raw.githubusercontent.com/Zenfection/Course/master/assets/auth0.png)
+<a href="">
+    <img src="https://raw.githubusercontent.com/Zenfection/Course/master/assets/auth0.png" width="50">
+    auth0
+</a>
 
-![babel.png](https://raw.githubusercontent.com/Zenfection/Course/master/assets/babel.png)
+<a href="">
+    <img src="https://raw.githubusercontent.com/Zenfection/Course/master/assets/babel.png" width="50">
+    babel
+</a>
 
-![bash.png](https://raw.githubusercontent.com/Zenfection/Course/master/assets/bash.png)
+<a href="">
+    <img src="https://raw.githubusercontent.com/Zenfection/Course/master/assets/bash.png" width="50">
+    bash
+</a>
 
-![chrome.png](https://raw.githubusercontent.com/Zenfection/Course/master/assets/chrome.png)
+<a href="">
+    <img src="https://raw.githubusercontent.com/Zenfection/Course/master/assets/chrome.png" width="50">
+    chrome
+</a>
 
-![ClojureScript.png](https://raw.githubusercontent.com/Zenfection/Course/master/assets/ClojureScript.png)
+<a href="">
+    <img src="https://raw.githubusercontent.com/Zenfection/Course/master/assets/ClojureScript.png" width="50">
+    ClojureScript
+</a>
 
-![cloudflare.png](https://raw.githubusercontent.com/Zenfection/Course/master/assets/cloudflare.png)
+<a href="">
+    <img src="https://raw.githubusercontent.com/Zenfection/Course/master/assets/cloudflare.png" width="50">
+    cloudflare
+</a>
 
-![css.png](https://raw.githubusercontent.com/Zenfection/Course/master/assets/css.png)
+<a href="">
+    <img src="https://raw.githubusercontent.com/Zenfection/Course/master/assets/css.png" width="50">
+    css
+</a>
 
-![cypress.png](https://raw.githubusercontent.com/Zenfection/Course/master/assets/cypress.png)
+<a href="">
+    <img src="https://raw.githubusercontent.com/Zenfection/Course/master/assets/cypress.png" width="50">
+    cypress
+</a>
 
-![d3.png](https://raw.githubusercontent.com/Zenfection/Course/master/assets/d3.png)
+<a href="">
+    <img src="https://raw.githubusercontent.com/Zenfection/Course/master/assets/d3.png" width="50">
+    d3
+</a>
 
-![dart.png](https://raw.githubusercontent.com/Zenfection/Course/master/assets/dart.png)
+<a href="">
+    <img src="https://raw.githubusercontent.com/Zenfection/Course/master/assets/dart.png" width="50">
+    dart
+</a>
 
-![discount.png](https://raw.githubusercontent.com/Zenfection/Course/master/assets/discount.png)
+<a href="">
+    <img src="https://raw.githubusercontent.com/Zenfection/Course/master/assets/discount.png" width="50">
+    discount
+</a>
 
-![docker.png](https://raw.githubusercontent.com/Zenfection/Course/master/assets/docker.png)
+<a href="">
+    <img src="https://raw.githubusercontent.com/Zenfection/Course/master/assets/docker.png" width="50">
+    docker
+</a>
 
-![elm.png](https://raw.githubusercontent.com/Zenfection/Course/master/assets/elm.png)
+<a href="">
+    <img src="https://raw.githubusercontent.com/Zenfection/Course/master/assets/elm.png" width="50">
+    elm
+</a>

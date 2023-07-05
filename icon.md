@@ -1,41 +1,41 @@
-![11ty.png](https://github.com/zenfection/Course/assets/11ty.png)
+![11ty.png](https://raw.githubusercontent.com/Zenfection/Course/master/assets/11ty.png)
 
-![a11y.png](https://github.com/zenfection/Course/assets/a11y.png)
+![a11y.png](https://raw.githubusercontent.com/Zenfection/Course/master/assets/a11y.png)
 
-![algolia.png](https://github.com/zenfection/Course/assets/algolia.png)
+![algolia.png](https://raw.githubusercontent.com/Zenfection/Course/master/assets/algolia.png)
 
-![android.png](https://github.com/zenfection/Course/assets/android.png)
+![android.png](https://raw.githubusercontent.com/Zenfection/Course/master/assets/android.png)
 
-![angular.png](https://github.com/zenfection/Course/assets/angular.png)
+![angular.png](https://raw.githubusercontent.com/Zenfection/Course/master/assets/angular.png)
 
-![aphrodite.png](https://github.com/zenfection/Course/assets/aphrodite.png)
+![aphrodite.png](https://raw.githubusercontent.com/Zenfection/Course/master/assets/aphrodite.png)
 
-![aria.png](https://github.com/zenfection/Course/assets/aria.png)
+![aria.png](https://raw.githubusercontent.com/Zenfection/Course/master/assets/aria.png)
 
-![asp.png](https://github.com/zenfection/Course/assets/asp.png)
+![asp.png](https://raw.githubusercontent.com/Zenfection/Course/master/assets/asp.png)
 
-![auth0.png](https://github.com/zenfection/Course/assets/auth0.png)
+![auth0.png](https://raw.githubusercontent.com/Zenfection/Course/master/assets/auth0.png)
 
-![babel.png](https://github.com/zenfection/Course/assets/babel.png)
+![babel.png](https://raw.githubusercontent.com/Zenfection/Course/master/assets/babel.png)
 
-![bash.png](https://github.com/zenfection/Course/assets/bash.png)
+![bash.png](https://raw.githubusercontent.com/Zenfection/Course/master/assets/bash.png)
 
-![chrome.png](https://github.com/zenfection/Course/assets/chrome.png)
+![chrome.png](https://raw.githubusercontent.com/Zenfection/Course/master/assets/chrome.png)
 
-![ClojureScript.png](https://github.com/zenfection/Course/assets/ClojureScript.png)
+![ClojureScript.png](https://raw.githubusercontent.com/Zenfection/Course/master/assets/ClojureScript.png)
 
-![cloudflare.png](https://github.com/zenfection/Course/assets/cloudflare.png)
+![cloudflare.png](https://raw.githubusercontent.com/Zenfection/Course/master/assets/cloudflare.png)
 
-![css.png](https://github.com/zenfection/Course/assets/css.png)
+![css.png](https://raw.githubusercontent.com/Zenfection/Course/master/assets/css.png)
 
-![cypress.png](https://github.com/zenfection/Course/assets/cypress.png)
+![cypress.png](https://raw.githubusercontent.com/Zenfection/Course/master/assets/cypress.png)
 
-![d3.png](https://github.com/zenfection/Course/assets/d3.png)
+![d3.png](https://raw.githubusercontent.com/Zenfection/Course/master/assets/d3.png)
 
-![dart.png](https://github.com/zenfection/Course/assets/dart.png)
+![dart.png](https://raw.githubusercontent.com/Zenfection/Course/master/assets/dart.png)
 
-![discount.png](https://github.com/zenfection/Course/assets/discount.png)
+![discount.png](https://raw.githubusercontent.com/Zenfection/Course/master/assets/discount.png)
 
-![docker.png](https://github.com/zenfection/Course/assets/docker.png)
+![docker.png](https://raw.githubusercontent.com/Zenfection/Course/master/assets/docker.png)
 
-![elm.png](https://github.com/zenfection/Course/assets/elm.png)
+![elm.png](https://raw.githubusercontent.com/Zenfection/Course/master/assets/elm.png)

@@ -1,11 +1,11 @@
-# PostgreSQL
+# postgreSQL-image PostgreSQL
 
 PostgreSQL is a powerful, open source object-relational database system.
 
-| Course                                                                                                                                      | Duatation        | Additional | Link |
-| ------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ---------- | ---- |
-| [Advanced SQL for Professional Developers](https://egghead.io/courses/advanced-sql-for-professional-developers)                             | 15 lessons - 53m |            |      |
-| [SQL Fundamentals](https://egghead.io/courses/sql-fundamentals)                                                                             | 12 lessons - 33m |            |      |
-| [Understand Joins and Unions in Postgres](https://egghead.io/courses/understand-joins-and-unions-in-postgres)                               | 8 lessons - 15m  |            |      |
-| [Using Postgres Window Functions](https://egghead.io/courses/using-postgres-window-functions)                                               | 10 lessons - 19m |            |      |
-| [Get Started With PostgreSQL](https://egghead.io/courses/get-started-with-postgresqlhttps://egghead.io/courses/get-started-with-postgresql) | 14 lessons - 41m |            |      |
+| Course                                                                                                                                                                                                                                                                                         | Duatation        | Additional |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ---------- |
+| <img title="" src="https://raw.githubusercontent.com/Zenfection/Image/master/2023/07/06-15-11-41-egh_adv-sql_1000.webp" alt="egh_adv-sql_1000.webp" width="50">[Advanced SQL for Professional Developers](https://egghead.io/courses/advanced-sql-for-professional-developers)                 | 15 lessons - 53m |            |
+| <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2023/07/06-15-11-46-EGH_SQLFundamentals_Final.webp" title="" alt="EGH_SQLFundamentals_Final.webp" width="50">[SQL Fundamentals](https://egghead.io/courses/sql-fundamentals)                                               | 12 lessons - 33m |            |
+| <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2023/07/06-15-11-52-EGH_Postgres_Unions_Final.webp" title="" alt="EGH_Postgres_Unions_Final.webp" width="50">[Understand Joins and Unions in Postgres](https://egghead.io/courses/understand-joins-and-unions-in-postgres) | 8 lessons - 15m  |            |
+| <img title="" src="https://raw.githubusercontent.com/Zenfection/Image/master/2023/07/06-15-11-56-EGH_PostgreSQL-2_Final.webp" alt="EGH_PostgreSQL-2_Final.webp" width="50">[Using Postgres Window Functions](https://egghead.io/courses/using-postgres-window-functions)                       | 10 lessons - 19m |            |
+| <img title="" src="https://raw.githubusercontent.com/Zenfection/Image/master/2023/07/06-15-12-54-EGH_PostgreSQL_Final.webp" alt="EGH_PostgreSQL_Final.webp" width="50">[Get Started With PostgreSQL](https://egghead.io/courses/get-started-with-postgresql)                                   | 14 lessons - 41m |            |

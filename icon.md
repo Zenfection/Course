@@ -179,6 +179,11 @@
 </a>
 
 <a href="">
+    <img src="https://raw.githubusercontent.com/Zenfection/Course/master/assets/supabase.png" width="50">
+    Supabase
+</a>
+
+<a href="">
     <img src="https://raw.githubusercontent.com/Zenfection/Course/master/assets/tachyons.png" width="50">
     Tachyons
 </a>

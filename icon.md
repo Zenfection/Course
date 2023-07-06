@@ -133,7 +133,6 @@
     Docker
 </a>
 
-
 <a href="">
     <img src="https://raw.githubusercontent.com/Zenfection/Course/master/assets/elasticsearch.png" width="50">
     Elasticsearch
@@ -157,13 +156,12 @@
 <a href="">
     <img src="https://raw.githubusercontent.com/Zenfection/Course/master/assets/FaunaDB.png" width="50">
     FaunaDB
-</a>    
+</a>
 
 <a href="">
     <img src="https://raw.githubusercontent.com/Zenfection/Course/master/assets/react.png" width="50">
     React
 </a>
-
 
 <a href="">
     <img src="https://raw.githubusercontent.com/Zenfection/Course/master/assets/sequelize.png" width="50">

@@ -1,0 +1,48 @@
+# React
+
+One of the web’s most popular frameworks for building JavaScript applications. If you know what you’re doing, React can drastically simplify how you build, use, and maintain code.
+
+Whether you’re a React newbie or you’re ready for advanced techniques, you can level-up with egghead.
+
+You can find courses below curated just for you whether you're looking for a particular topic or want to take your React skills to the next level.
+
+---
+
+## Beginner
+
+| Course                                                                                                                                                                                                                                                                                                   | Additional                                                                             | Last Update |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | ----------- |
+| <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2023/07/06-21-51-21-EGH_BeginnersReact2.webp" title="" alt="EGH_BeginnersReact2.webp" width="50">[The Beginner's Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react)<br>30 lessons - 2h35m                     |                                                                                        | 2017 - 2021 |
+| <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2023/07/06-21-51-30-AccessibleReact_1000.webp" title="" alt="AccessibleReact_1000.webp" width="50">[Develop Accessible Web Apps with React](https://egghead.io/courses/develop-accessible-web-apps-with-react)<br>28 lessons - 1h32m | aria image<br>screen reader image<br>javascript<br>eslint<br>chrome<br>window<br>macos | 2019 - 2023 |
+| <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2023/07/06-21-51-37-React_Leaflet_Final.webp" title="" alt="React_Leaflet_Final.webp" width="50">[Build Maps with React Leaflet](https://egghead.io/courses/build-maps-with-react-leaflet)<br>61 lessons - 53m                       | leaflet<br>javascript                                                                  | 2020-2021   |
+
+## Intermediate
+
+| Course                                                                                                                                                                                                                                                                                                                   | Additional | Last Update |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | ----------- |
+| <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2023/07/06-21-56-32-EGH_SimplifyHooks_Final.webp" title="" alt="EGH_SimplifyHooks_Final.webp" width="50">[Shareable Custom Hooks in React](https://egghead.io/courses/shareable-custom-hooks-in-react)<br>8 lessons - 30m                            |            | 2019 - 2021 |
+| <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2023/07/06-21-56-30-EGH_CustomReactHooks_Final.webp" title="" alt="EGH_CustomReactHooks_Final.webp" width="50">[Simplify React Apps with React Hooks](https://egghead.io/courses/simplify-react-apps-with-react-hooks)<br>11 lessons - 31m           |            | 2018 - 2021 |
+| <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2023/07/06-21-56-34-EGH_ReactHooks_Final_(1).webp" title="" alt="EGH_ReactHooks_Final_(1).webp" width="50">[Reusable State and Effects with React Hooks](https://egghead.io/courses/reusable-state-and-effects-with-react-hooks)<br>13 lessons - 57m |            | 2018 - 2021 |
+
+## Advanced
+
+| Course                                                                                                                                                                                                                                                                                                                                | Additional | Last Update |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ----------- |
+| <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2023/07/06-21-58-56-egh_redux-with-hooks.webp" title="" alt="egh_redux-with-hooks.webp" width="50">[Apply Redux to a Modern React Hooks Application](https://egghead.io/courses/apply-redux-to-a-modern-react-hooks-application-8a37)<br>13 lessons - 43m         | redux      | 2020 - 2021 |
+| <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2023/07/06-21-58-59-React_Suspense_Final.webp" title="" alt="React_Suspense_Final.webp" width="50">[Build an App with React Suspense](https://egghead.io/courses/build-an-app-with-react-suspense)<br>23 lessons - 1h28m                                          |            | 2019 - 2021 |
+| <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2023/07/06-21-59-02-uprunning_recoil_424_2x.webp" title="" alt="uprunning_recoil_424_2x.webp" width="50">[Sync State Across Components with Recoil in React](https://egghead.io/courses/sync-state-across-components-with-recoil-in-react-3145)<br>3 lessons - 5m |            | 2020 - 2021 |
+
+## State Management
+
+| Course                                                                                                                                                                                                                                                                                                                                 | Additional           | Last Update |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------- | ----------- |
+| <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2023/07/06-22-02-39-state_management_2x.webp" title="" alt="state_management_2x.webp" width="50">[React State Management Expert Interviews](https://egghead.io/courses/react-state-management-expert-interviews-6732)<br>9 lessons - 7h49m                         |                      | 2020 - 2023 |
+| <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2023/07/06-22-02-51-IntroxState_1000.webp" title="" alt="IntroxState_1000.webp" width="50">[Introduction to State Machines Using XState](https://egghead.io/courses/introduction-to-state-machines-using-xstate)<br>22 lessons - 58m                               | javascript<br>xstate | 2019 - 2023 |
+| <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2023/07/06-22-03-02-State_Machine.webp" title="" alt="State_Machine.webp" width="50">[Construct Sturdy UIs with XState](https://egghead.io/courses/construct-sturdy-uis-with-xstate)<br>8 lessons - 39m                                                            | xstate               | 2019 - 2021 |
+| <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2023/07/06-22-03-04-EGH_ReactContext_Final.webp" title="" alt="EGH_ReactContext_Final.webp" width="50">[React Context for State Management](https://egghead.io/courses/react-context-for-state-management)<br>12 lessons - 35m                                     |                      | 2018 - 2021 |
+| <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2023/07/06-22-03-08-react_tictactoe_424_2x.webp" title="" alt="react_tictactoe_424_2x.webp" width="50">[Manage Complex Tic Tac Toe Game State in React](https://egghead.io/courses/manage-complex-tic-tac-toe-game-state-in-react-dddda3f8)<br/>7 lessons - 24m    | css<br>javascript    | 2020-2021   |
+| <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2023/07/06-22-03-38-jotai.webp" title="" alt="jotai.webp" width="50">[Manage Application State with Jotai Atoms](https://egghead.io/courses/manage-application-state-with-jotai-atoms-2c3a29f0)<br>10 lessons - 18m                                                |                      | 2021        |
+| <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2023/07/06-22-03-40-uprunning_recoil_424_2x.webp" title="" alt="uprunning_recoil_424_2x.webp" width="50">[Sync State Across Components with Recoil in React](https://egghead.io/courses/sync-state-across-components-with-recoil-in-react-3145)<br> 3 lessoms - 5m |                      | 2020-2021   |
+| <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2023/07/06-22-03-57-manage_recoil_react_424_2x.webp" title="" alt="manage_recoil_react_424_2x.webp" width="50">[Manage React State with Recoil](https://egghead.io/courses/manage-react-state-with-recoil-fe987643)<br>6 lessons - 24m                             |                      | 2020-2021   |
+
+## Build App

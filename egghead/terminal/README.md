@@ -20,9 +20,6 @@ A Unix command used to search files for the occurrence of a string of characters
 | Course                                                                                                                                                                                                                                                                                                             | Additional | Last Updated |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | ------------ |
 | <img title="" src="https://raw.githubusercontent.com/Zenfection/Image/master/2023/07/07-10-25-27-EGH_Grep_Final_Small.webp" alt="EGHGrepFinalSmallwebp" width="50">[Use Grep for Fast Search from the Command Line](https://egghead.io/courses/use-grep-for-fast-search-from-the-command-line)<br>13 lessons - 24m |            | 2016-2021    |
-|                                                                                                                                                                                                                                                                                                                    |            |              |
-
-
 
 ## Tmux
 

@@ -1,6 +1,7 @@
-| Course | Type | Duaration | Time |
-| ------ | ---- | --------- | ---- |
-|        |      |           |      |
-|        |      |           |      |
-|        |      |           |      |
-|        |      |           |      |
+# Algolia
+
+Algolia's full suite APIs enable teams to develop unique search and discovery experiences for their customers across all platforms and devices. Type a query. Click a link. Open an app. Everything your customers do sends a signal about what they want. Algolia decodes that intent to deliver the right content - instantly.
+
+| Course                                                                                                                                                                                                                                                                                                                                   | Additional | Last Updated |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------------ |
+| <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2023/07/06-23-57-44-EGH_Agolia-InstantSearch_Final.webp" title="" alt="EGH_Agolia-InstantSearch_Final.webp" width="50">[Getting Started with Algolia InstantSearch.js](https://egghead.io/courses/getting-started-with-algolia-instantsearch-js)<br>13 lessons - 26m |            | 2018-2021    |

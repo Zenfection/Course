@@ -43,6 +43,7 @@ You can find courses below curated just for you whether you're looking for a par
 | <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2023/07/06-22-03-08-react_tictactoe_424_2x.webp" title="" alt="react_tictactoe_424_2x.webp" width="50">[Manage Complex Tic Tac Toe Game State in React](https://egghead.io/courses/manage-complex-tic-tac-toe-game-state-in-react-dddda3f8)<br/>7 lessons - 24m | css<br>javascript    | 2020-2021   |
 | <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2023/07/06-22-03-38-jotai.webp" title="" alt="jotai.webp" width="50">[Manage Application State with Jotai Atoms](https://egghead.io/courses/manage-application-state-with-jotai-atoms-2c3a29f0)<br>10 lessons - 18m                                             |                      | 2021        |
 | <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2023/07/06-22-03-57-manage_recoil_react_424_2x.webp" title="" alt="manage_recoil_react_424_2x.webp" width="50">[Manage React State with Recoil](https://egghead.io/courses/manage-react-state-with-recoil-fe987643)<br>6 lessons - 24m                          |                      | 2020-2021   |
+| <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2023/07/06-22-45-42-xstate.webp" title="" alt="xstate.webp" width="50">[Complex State Management in React with Jotai and XState](https://egghead.io/courses/complex-state-management-in-react-with-jotai-and-xstate-3be0a740)<br>5 lessons - 15m                | xstate               | 2022        |
 
 ## Style
 
@@ -51,6 +52,7 @@ You can find courses below curated just for you whether you're looking for a par
 | <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2023/07/06-22-19-13-framer_motion.webp" title="" alt="framer_motion.webp" width="50">[Animate React Apps with Framer Motion](https://egghead.io/courses/animate-react-apps-with-framer-motion-aa83f52c)<br>12 lessons - 33m x                                               |            | 2021 - 2022 |
 | <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2023/07/06-22-19-22-react.webp" title="" alt="react.webp" width="50">[Styling React Applications with Styled Components](https://egghead.io/courses/styling-react-applications-with-styled-components-8834)<br>12 lessons - 23m                                             |            | 2020 - 2022 |
 | <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2023/07/06-22-19-24-React_Dnd_Final.webp" title="" alt="React_Dnd_Final.webp" width="50">[Beautiful and Accessible Drag and Drop with react-beautiful-dnd](https://egghead.io/courses/beautiful-and-accessible-drag-and-drop-with-react-beautiful-dnd)<br>14 lessons - 1h3m |            | 2018 - 2021 |
+| <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2023/07/06-22-44-26-zag-log-v2.webp" title="" alt="zag-log-v2.webp" width="50">[Statechart Driven UI Components with Zag.js](https://egghead.io/courses/statechart-driven-ui-components-with-zag-js-53f85394)<br>15 lessons - 1h6m                                          | zag        | 2023        |
 
 ## Build App
 
@@ -60,20 +62,13 @@ You can find courses below curated just for you whether you're looking for a par
 | <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2023/07/06-22-22-38-EGH_RealtimeGraphqL.webp" title="" alt="EGH_RealtimeGraphqL.webp" width="50">[React Real-Time Messaging with GraphQL using urql and OneGraph](https://egghead.io/courses/react-real-time-messaging-with-graphql-using-urql-and-onegraph-be5a)<br>20 lessons - 1h21m                                                                | graphQL                           | 2020-2023   |
 | <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2023/07/06-22-22-40-react.webp" title="" alt="react.webp" width="50">[Build a Terminal Dashboard with React](https://egghead.io/courses/build-a-terminal-dashboard-with-react-3f4d)<br>10 lessons - 51m                                                                                                                                                |                                   | 2020        |
 
+## Others
 
-
-<img src="https://raw.githubusercontent.com/Zenfection/Image/master/2023/07/06-22-44-26-zag-log-v2.webp" title="" alt="zag-log-v2.webp" width="50">
-
-<img src="https://raw.githubusercontent.com/Zenfection/Image/master/2023/07/06-22-45-34-EGH_ScalingReactNx.webp" title="" alt="EGH_ScalingReactNx.webp" width="50">
-
-<img src="https://raw.githubusercontent.com/Zenfection/Image/master/2023/07/06-22-45-42-xstate.webp" title="" alt="xstate.webp" width="50">
-
-<img src="https://raw.githubusercontent.com/Zenfection/Image/master/2023/07/06-22-45-48-javascriptlang.webp" title="" alt="javascriptlang.webp" width="50">
-
-<img src="https://raw.githubusercontent.com/Zenfection/Image/master/2023/07/06-22-47-42-aws_amplify_424_2x.webp" title="" alt="aws_amplify_424_2x.webp" width="50">
-
-<img src="https://raw.githubusercontent.com/Zenfection/Image/master/2023/07/06-22-47-50-SuspenseAsyncUI_1000.webp" title="" alt="SuspenseAsyncUI_1000.webp" width="50">
-
-<img src="https://raw.githubusercontent.com/Zenfection/Image/master/2023/07/06-22-47-56-ImmuateableImmer_Final.webp" title="" alt="ImmuateableImmer_Final.webp" width="50">
-
-![React_Suspense_Final.webp](https://raw.githubusercontent.com/Zenfection/Image/master/2023/07/06-22-48-05-React_Suspense_Final.webp)
+| Course                                                                                                                                                                                                                                                                                                                       | Additional       | Last Updated |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ------------ |
+| <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2023/07/06-22-45-34-EGH_ScalingReactNx.webp" title="" alt="EGH_ScalingReactNx.webp" width="50">[Scale React Development with Nx](https://egghead.io/courses/scale-react-development-with-nx-4038)<br>24 lessons - 1h40m                                  | javascript<br>nx | 2020-2023    |
+| <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2023/07/06-22-45-48-javascriptlang.webp" title="" alt="javascriptlang.webp" width="50">[React Hooks: Revisited](https://egghead.io/courses/react-hooks-revisited-abce)<br>10 lessons - 32m                                                               |                  | 2020 - 2021  |
+| <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2023/07/06-22-47-42-aws_amplify_424_2x.webp" title="" alt="aws_amplify_424_2x.webp" width="50">[Get Started with the AWS Amplify Admin UI](https://egghead.io/courses/get-started-with-the-amplify-admin-ui-9e79)<br>6 lessons - 16m                     | aws              | 2020-2021    |
+| <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2023/07/06-22-47-50-SuspenseAsyncUI_1000.webp" title="" alt="SuspenseAsyncUI_1000.webp" width="50">[Use Suspense to Simplify Your Async UI](https://egghead.io/courses/use-suspense-to-simplify-your-async-ui)<br>18 lessons - 1h26m                     |                  | 2019-2021    |
+| <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2023/07/06-22-47-56-ImmuateableImmer_Final.webp" title="" alt="ImmuateableImmer_Final.webp" width="50">[Immutable JavaScript Data Structures with Immer](https://egghead.io/courses/immutable-javascript-data-structures-with-immer)<br>20 lessons - 58m | javascript       | 2019-2021    |
+| <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2023/07/06-22-48-05-React_Suspense_Final.webp" title="" alt="React_Suspense_Final.webp" width="50">[Build an App with React Suspense](https://egghead.io/courses/build-an-app-with-react-suspense)<br>23 lessons - 1h28m                                 |                  | 2019-2021    |

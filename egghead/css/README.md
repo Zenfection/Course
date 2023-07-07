@@ -4,13 +4,11 @@ Cascading Style Sheets is a style sheet language used for describing the present
 
 No matter what kind of website or web application you want to build, you'll have to use CSS. If you haven't written much CSS, or even if you’ve never written CSS at all, don’t worry. That's what these courses are for. We’ll start with basic CSS concepts, then gradually progress to more advanced topics and lessons.
 
-![icons8okpng](https://raw.githubusercontent.com/Zenfection/Image/master/2023/07/07-21-54-02-icons8-ok.png): Đã hoàn thành
+| ![icons8okpng](https://raw.githubusercontent.com/Zenfection/Image/master/2023/07/07-21-54-02-icons8-ok.png) | <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2023/07/07-21-52-13-icons8-box_important.png" title="" alt="icons8boximportantpng" data-align="center"> | ![icons8cancelpng](https://raw.githubusercontent.com/Zenfection/Image/master/2023/07/07-21-52-16-icons8-cancel.png) | ![icons8infopng](https://raw.githubusercontent.com/Zenfection/Image/master/2023/07/07-21-56-51-icons8-info.png) |
+|:-----------------------------------------------------------------------------------------------------------:| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |:-------------------------------------------------------------------------------------------------------------------:| --------------------------------------------------------------------------------------------------------------- |
+| Đã hoàn thành                                                                                               | Chưa học                                                                                                                                                                    | Không có khóa học                                                                                                   | Đang học                                                                                                        |
 
-![icons8boximportantpng](https://raw.githubusercontent.com/Zenfection/Image/master/2023/07/07-21-52-13-icons8-box_important.png): Chưa học
 
-![icons8cancelpng](https://raw.githubusercontent.com/Zenfection/Image/master/2023/07/07-21-52-16-icons8-cancel.png): Không có khóa học
-
-![icons8infopng](https://raw.githubusercontent.com/Zenfection/Image/master/2023/07/07-21-56-51-icons8-info.png): Đang học
 
 ## Beginner
 

@@ -1,4 +1,4 @@
-## Alpine.js
+## Alpine.js (1/1)
 
 Alpine.js offers you the reactive and declarative nature of big frameworks like Vue or React at a much lower cost.
 

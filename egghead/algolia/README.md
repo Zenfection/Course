@@ -1,4 +1,4 @@
-# Algolia
+# Algolia (1/1)
 
 Algolia's full suite APIs enable teams to develop unique search and discovery experiences for their customers across all platforms and devices. Type a query. Click a link. Open an app. Everything your customers do sends a signal about what they want. Algolia decodes that intent to deliver the right content - instantly.
 

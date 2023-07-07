@@ -1,4 +1,4 @@
-# postgreSQL-image PostgreSQL
+# PostgreSQL (6/6)
 
 PostgreSQL is a powerful, open source object-relational database system.
 

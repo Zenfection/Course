@@ -28,8 +28,6 @@ Node.js uses an event-driven, non-blocking I/O model that makes it lightweight a
 | <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2023/07/07-13-21-13-EGH_WebSecurity.webp" title="" alt="EGH_WebSecurity.webp" width="50">[Web Security Essentials: MITM, CSRF, and XSS](https://egghead.io/courses/web-security-essentials-mitm-csrf-and-xss)<br>17 lessons - 55m ⚠️       | express    | 2019-2021   |
 | <img title="" src="https://raw.githubusercontent.com/Zenfection/Image/master/2023/07/07-13-21-08-EGH_NodeJSLoopback_Final.webp" alt="EGH_NodeJSLoopback_Final.webp" width="50">[Build a Node.js REST API with LoopBack](https://egghead.io/courses/build-a-node-js-rest-api-with-loopback)<br>15 lessons - 31m | loopback   | 2017-2021   |
 
-
-
 ## Others
 
 | Course                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Additional            | Last Update |

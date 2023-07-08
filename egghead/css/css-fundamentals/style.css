@@ -1,0 +1,43 @@
+.logo {
+    text-transform: uppercase;
+    font-size: 2rem;
+    font-weight: 700;
+    text-decoration: none;
+    color: aliceblue;
+}
+
+.headerContainer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 0;
+}
+
+.header--ul {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    list-style: none;
+    width: 50%;
+}
+
+.header--ul li a {
+    text-decoration: none;
+    text-transform: uppercase;
+    color: hsl(0, 0%, 50%);
+    font-size: 0.9rem;
+}
+
+.header--ul li:first-child a {
+    color: hsl(0, 0%, 90%);
+}
+
+@media (max-width: 900px) {
+    .headerContainer {
+        display: block;
+    }
+
+    .header--ul {
+        display: block;
+    }
+}

@@ -1,3 +1,14 @@
+.container {
+    max-width: 1200px;
+    margin: auto;
+}
+
+body {
+    background: hsl(0, 0%, 13%);
+    font-family: 'Open Sans', sans-serif;
+    color: hsl(0, 0%, 90%);
+}
+
 .logo {
     text-transform: uppercase;
     font-size: 2rem;
@@ -40,4 +51,10 @@
     .header--ul {
         display: block;
     }
+}
+
+.content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }

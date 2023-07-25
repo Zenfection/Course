@@ -1,0 +1,47 @@
+mixin nav(name)
+    li
+        a(href="#")= name
+
+mixin social(name, link)
+    a(href=link)
+        i(class="fa fa-" + name)
+
+doctype html
+html(lang="en")
+    head
+        meta(charset="UTF-8")
+        meta(name="viewport", content="width=device-width, initial-scale=1.0")
+        title Tyler's Portfolio
+        link(href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,500,700" rel="stylesheet")
+        link(rel="stylesheet", href="style.css")
+    body
+        .container
+            .header
+                .nav
+                    .headerContainer
+                        a.logo(href="#") Tyler.
+                        ul
+                            +nav('Home')
+                            +nav('About')
+                            +nav('Experience')
+                            +nav('Portfolio')
+                            +nav('Services')
+                            +nav('Blog')
+                            +nav('Contact')
+                div.contentContainer
+                    div.content
+                        div.contentLeft
+                            h5 Hello, I'm Tyler.
+                            h1 Tyler Clark
+                            p UX Designer / Frontend Developer\
+                            div
+                                +social('facebook', 'https://www.facebook.com/zenfection')
+                                +social('twitter', 'https://twitter.com/zenfection')
+                                +social('linkedin', 'https://www.linkedin.com/in/zenfection')
+                                +social('github', 'https://github.com/zenfection/1412')
+                                +social('instagram', 'https://www.instagram.com/zenfection')
+                            a(href="#") View Portfolio
+                                i
+                        div.contentRight
+                            div
+                                img(src="img/portfolio-pic-01.png", alt="Example Image")
